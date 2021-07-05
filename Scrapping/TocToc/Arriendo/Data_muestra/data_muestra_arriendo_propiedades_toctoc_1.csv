@@ -1,0 +1,936 @@
+,cod_propiedad,tipo_propiedad,info_general,nombre_propiedad,precio_a,precio_b,n_dormitorios,n_banos,sup_terreno,sup_util,sup_construida,aval_fiscal,fecha_publicacion,fecha_plusvalia,valor_plusvalia,latitud,longitud
+0,Código: TT-1762138,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,"ATAHUALPA 235 A, La Florida",$ 490.000,"UF 16,59",3,2,,77 m²,,60.958.531,21-06-2021,2020 1ºSem,39,-33.51802761,-70.60747328
+1,Código: TT-1738996,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,"Atahualpa 235 Depto 404-D, La Florida",$ 480.000,"UF 16,25",3,2,,82 m²,,,18-05-2021,2020 1ºSem,39,-33.51815428,-70.60701295
+2,Código: TT-1742943,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,"Vicuña Mackena Oriente 6553, La Florida",$ 495.000,"UF 16,76",3,2,,"60,7 m²",,,24-05-2021,2020 1ºSem,48,-33.5147845,-70.6050882
+3,Código: 35579,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Coronel Godoy,$ 260.000,"UF 8,8",1,1,,34 m²,34 m²,,28-06-2021,2020 1ºSem,37,-33.4529,-70.6943
+4,Código: 1489,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Toro Mazote,$ 310.000,"UF 10,5",2,1,,50 m²,50 m²,,16-06-2021,2020 1ºSem,60,-33.4559,-70.6914
+5,,,,,,,,,,,,,,,,,
+6,Código: 19111,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Buzo Sobenes,$ 180.000,"UF 6,1",1,1,,23 m²,23 m²,,29-06-2021,,,-33.45,-70.698
+7,Código: 34677,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida Ecuador,$ 270.000,"UF 9,14",1,1,,34 m²,38 m²,,24-06-2021,2020 1ºSem,37,-33.4536,-70.6989
+8,Código: 28938,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Constantino,$ 250.000,"UF 8,47",1,1,,27 m²,28 m²,,26-06-2021,,,-33.4505,-70.6963
+9,Código: 12285,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,San Gumercindo,$ 290.000,"UF 9,82",2,1,,37 m²,40 m²,,29-06-2021,2020 1ºSem,37,-33.4514,-70.6951
+10,Código: 35482,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Recreo,$ 280.000,"UF 9,48",1,1,,32 m²,37 m²,,27-06-2021,,,-33.4575,-70.6957
+11,Código: 35479,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Recreo,$ 280.000,"UF 9,48",1,1,,32 m²,37 m²,,27-06-2021,,,-33.4575,-70.6957
+12,Código: TT-1750614,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,"CONDE DEL MAULE 4470 DP 2515 DP 2515, Estación Central",$ 220.000,"UF 7,45",1,1,,35 m²,,28.282.864,03-06-2021,,,-33.45389429,-70.69685594
+13,Código: 21526,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida Ecuador,$ 310.000,"UF 10,5",2,2,,45 m²,55 m²,,16-06-2021,2020 1ºSem,37,-33.4526,-70.6964
+14,Código: 32043,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Conde del Maule,$ 305.000,"UF 10,33",2,1,,37 m²,40 m²,,27-06-2021,2020 1ºSem,48,-33.4538,-70.6959
+15,Código: 1753,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Toro Mazote,$ 265.000,"UF 8,97",1,1,,35 m²,36 m²,,27-06-2021,2020 1ºSem,60,-33.4559,-70.6914
+16,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,"UF 8,47",:dormitoriosText:,1,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,,,-33.4505,-70.6963
+17,Código: 19520,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Blanco Garcés,$ 200.000,"UF 6,77",1,1,,30 m²,30 m²,,29-06-2021,,,-33.4504,-70.6978
+18,Código: 35485,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Recreo,$ 280.000,"UF 9,48",1,1,,32 m²,37 m²,,27-06-2021,,,-33.4575,-70.6957
+19,Código: 28620,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Conde del Maule,$ 450.000,"UF 15,24",3,2,,68 m²,72 m²,,16-06-2021,2020 1ºSem,37,-33.453,-70.693
+20,Código: 35486,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Recreo,$ 280.000,"UF 9,48",1,1,,32 m²,37 m²,,27-06-2021,,,-33.4575,-70.6957
+21,Código: 30323,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Embajador Quintana,$ 320.000,"UF 10,84",2,1,,42 m²,44 m²,,16-06-2021,2020 1ºSem,37,-33.4512,-70.6943
+22,Código: Add1081804,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Santa Isabel 55, Santiago",$ 294.000,"UF 9,96",1,1,27 m²,,27 m²,21.951.199,08-06-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+23,Código: 32564,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel,"UF 13,86",$ 409.278,2,2,,42 m²,43 m²,,16-06-2021,2020 1ºSem,55,-33.4475,-70.6332
+24,Código: Add1086196,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Santa Isabel 55, Santiago",$ 294.000,"UF 9,96",1,1,27 m²,,27 m²,21.951.199,15-06-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+25,Código: 30391,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel,$ 340.000,"UF 11,51",1,1,,33 m²,39 m²,,16-06-2021,2020 1ºSem,55,-33.4476,-70.6333
+26,Código: 20329,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Portugal,$ 190.000,"UF 6,43",1,1,,25 m²,25 m²,,29-06-2021,2020 1ºSem,55,-33.4474,-70.6358
+27,Código: 23566,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lira,$ 380.000,"UF 12,87",1,1,,75 m²,60 m²,,16-06-2021,2020 1ºSem,55,-33.4464,-70.6398
+28,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Santa Isabel 55, Santiago",$ 294.000,"UF 9,96",1,1,,,27 m²,21.951.199,18-05-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+29,Código: TT-1730460,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"ARGOMEDO 65, Santiago",$ 360.000,"UF 12,19",1,1,,42 m²,,,05-05-2021,2020 1ºSem,55,-33.4487014,-70.6328793
+30,Código: TT-1716542,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Arrienda Depto Amoblado un Dorm. en Santa Isabel y Portugal,$ 300.000,"UF 10,16",1,1,,35 m²,,25.264.992,15-04-2021,2020 1ºSem,55,-33.44917794,-70.63634297
+31,Código: 32563,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel,UF 10,$ 295.294,1,1,,1 m²,1 m²,,16-06-2021,2020 1ºSem,55,-33.4475,-70.6332
+32,Código: 28644,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Portugal,$ 270.000,"UF 9,14",1,1,,32 m²,35 m²,,16-06-2021,2020 1ºSem,55,-33.4474,-70.6358
+33,Código: 3888,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Argomedo,$ 330.000,"UF 11,18",1,1,,36 m²,38 m²,,23-06-2021,2020 1ºSem,55,-33.4487,-70.6329
+34,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Isabel 55, Santiago",$ 380.000,"UF 12,87",2,2,42 m²,,42 m²,21.951.199,18-05-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+35,Código: Add1086251,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Isabel 55, Santiago",$ 380.000,"UF 12,87",2,2,42 m²,,42 m²,21.951.199,16-06-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+36,Código: TT-1736470,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"RAULI 596 DEPARTAMENTO, Santiago",$ 350.000,"UF 11,85",2,1,,40 m²,,,14-05-2021,2020 1ºSem,55,-33.4495695,-70.6364163
+37,Código: 29638,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Argomedo,$ 390.000,"UF 13,21",2,2,,57 m²,58 m²,,16-06-2021,2020 1ºSem,55,-33.4493,-70.6335
+38,Código: 30389,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel,$ 323.290,"UF 10,95",1,1,,33 m²,39 m²,,16-06-2021,2020 1ºSem,55,-33.4476,-70.6333
+39,Código: Add1086194,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Santa Isabel 55, Santiago",$ 294.000,"UF 9,96",1,1,27 m²,,27 m²,21.951.199,15-06-2021,2020 1ºSem,55,-33.4475191,-70.6331684
+40,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Portugal,$ 280.000,"UF 9,48",1,1,,32 m²,35 m²,,16-06-2021,2020 1ºSem,55,-33.4474,-70.6358
+41,Código: 34263,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Avenida Manquehue Norte,$ 850.000,"UF 28,78",2,2,,60 m²,74 m²,,17-06-2021,2020 1ºSem,93,-33.399,-70.5723
+42,Código: 13969,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Avenida Presidente Kennedy,$ 750.000,"UF 25,4",2,1,,72 m²,80 m²,,16-06-2021,2020 1ºSem,93,-33.3992,-70.5731
+43,Código: TT-1759267,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Vicuña Mackenna 1385, Santiago",$ 340.000,"UF 11,51",1,1,,38 m²,,,16-06-2021,2020 1ºSem,56,-33.46048857,-70.62877865
+44,Código: 31127,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,San Eugenio 1209,$ 430.000,"UF 14,56",1,1,,38 m²,42 m²,,16-06-2021,2020 1ºSem,58,-33.4638,-70.6248
+45,Código: 32555,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Maule,"UF 10,7",$ 315.965,1,1,,30 m²,30 m²,,16-06-2021,2020 1ºSem,56,-33.4654,-70.6293
+46,Código: 32560,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Maule,"UF 14,6",$ 431.130,2,2,,53 m²,55 m²,,16-06-2021,2020 1ºSem,56,-33.4654,-70.6293
+47,Código: 32557,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Maule,"UF 14,6",$ 431.130,2,2,,53 m²,55 m²,,16-06-2021,2020 1ºSem,56,-33.4654,-70.6293
+48,Código: 32559,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Maule,"UF 10,8",$ 318.918,1,1,,30 m²,30 m²,,16-06-2021,2020 1ºSem,56,-33.4654,-70.6293
+49,Código: Add1050031,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Maule 150, Santiago",$ 300.000,"UF 10,16",1,1,30 m²,,30 m²,,18-05-2021,2020 1ºSem,56,-33.4654019,-70.6293474
+50,Código: 31780,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Vicuña Mackenna,$ 270.000,"UF 9,14",1,1,,30 m²,30 m²,,16-06-2021,2020 1ºSem,56,-33.4667,-70.6271
+51,Código: 32709,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,San Eugenio,$ 430.000,"UF 14,56",2,1,,48 m²,56 m²,,26-06-2021,2020 1ºSem,58,-33.4642,-70.6248
+52,,,,,,,:dormitoriosText:,1,30 m²,,30 m²,17.672.800,18-05-2021,,,-33.4654019,-70.6293474
+53,Código: 32656,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Diego,$ 360.000,"UF 12,19",2,1,,40 m²,40 m²,,16-06-2021,2020 1ºSem,35,-33.4653,-70.6489
+54,Código: TT-1759474,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Matta: Estudio Amoblado c/balcón,$ 245.000,"UF 8,3",1,1,,27 m²,,,16-06-2021,2020 1ºSem,35,-33.46248213,-70.64593554
+55,Código: 32543,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Diego,$ 350.000,"UF 11,85",2,1,,40 m²,40 m²,,16-06-2021,2020 1ºSem,35,-33.4605,-70.6491
+56,Código: TT-1704083,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,ARRIENDA DUEÑO EXCELENTE VISTA,$ 320.000,"UF 10,84",1,1,,"36,1 m²",,,27-03-2021,2020 1ºSem,35,-33.4613743,-70.646201
+57,Código: TT-1329958,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,"Rojas Magallanes, La Florida. (Frente al metro)",$ 300.000,"UF 10,16",1,1,,40 m²,,,30-05-2021,2020 1ºSem,32,-33.53616909,-70.59206849
+58,Código: TT-1747858,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"SANTA ELENA 1298 DP 910, Santiago",$ 300.000,"UF 10,16",1,1,,"33,9 m²",,27.110.924,30-05-2021,2020 1ºSem,56,-33.45873,-70.630111
+59,,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Vicuña Mackenna,$ 480.000,"UF 16,25",1,1,,40 m²,50 m²,,16-06-2021,2020 1ºSem,59,-33.4514,-70.6308
+60,Código: TT-1765591,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"CARMEN 1153 EDIF. 1 DP 2306 DP 2306, Santiago",$ 300.000,"UF 10,16",1,1,,40 m²,,20.712.633,26-06-2021,2020 1ºSem,35,-33.4581102,-70.63980567
+61,Código: 30319,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Fray Camilo Henríquez,$ 360.000,"UF 12,19",2,2,,48 m²,50 m²,,16-06-2021,2020 1ºSem,49,-33.4511,-70.6333
+62,Código: TT-1743492,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"MUJICA 55 DP 1411 DP 1411, Ñuñoa",$ 430.000,"UF 14,56",2,2,,60 m²,,50.073.801,24-05-2021,2020 1ºSem,59,-33.451111,-70.630061
+63,Código: 28493,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Mujica,$ 525.000,"UF 17,78",2,2,,51 m²,54 m²,,16-06-2021,2020 1ºSem,59,-33.451,-70.6302
+64,Código: 12289,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Portugal,$ 270.000,"UF 9,14",1,1,,32 m²,32 m²,,16-06-2021,2020 1ºSem,49,-33.4528,-70.6339
+65,Código: 33186,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Fray Camilo Henríquez,$ 275.000,"UF 9,31",1,1,,31 m²,32 m²,,16-06-2021,2020 1ºSem,49,-33.4511,-70.6333
+66,Código: 33186,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Fray Camilo Henríquez,$ 275.000,"UF 9,31",1,1,,31 m²,32 m²,,16-06-2021,2020 1ºSem,49,-33.4511,-70.6333
+67,Código: 33186,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Fray Camilo Henríquez,$ 275.000,"UF 9,31",1,1,,31 m²,32 m²,,16-06-2021,2020 1ºSem,49,-33.4511,-70.6333
+68,Código: 33186,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Fray Camilo Henríquez,$ 275.000,"UF 9,31",1,1,,31 m²,32 m²,,16-06-2021,2020 1ºSem,49,-33.4511,-70.6333
+69,Código: 33077,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sara del Campo,UF 14,$ 413.412,2,2,,47 m²,52 m²,,16-06-2021,,,-33.4445,-70.6441
+70,Código: 35119,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Agustinas,$ 360.000,"UF 12,19",1,1,,46 m²,50 m²,,26-06-2021,2020 1ºSem,48,-33.4402,-70.6464
+71,Código: Add1086256,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Rosa 237, Santiago",$ 375.000,"UF 12,7",2,2,44 m²,,44 m²,37.535.812,16-06-2021,2020 1ºSem,55,-33.4471945,-70.6457893
+72,Código: Add1013287,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Sara del Campo 535, Santiago",$ 379.000,"UF 12,83",2,2,45 m²,,45 m²,,18-05-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+73,Código: Add1086254,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Rosa 237, Santiago",$ 375.000,"UF 12,7",2,2,44 m²,,44 m²,37.535.812,16-06-2021,2020 1ºSem,55,-33.4471945,-70.6457893
+74,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,50,-33.4445,-70.6403
+75,Código: TT-1751316,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Eleuterio Ramírez 1024, Santiago",$ 260.000,"UF 8,8",1,1,,42 m²,,,04-06-2021,2020 1ºSem,55,-33.44931124,-70.64995703
+76,Código: 33101,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,"UF 13,43",$ 396.580,2,2,,43 m²,45 m²,,16-06-2021,2020 1ºSem,55,-33.4472,-70.6458
+77,Código: 33078,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sara del Campo,UF 13,$ 383.883,2,2,,41 m²,46 m²,,16-06-2021,2020 1ºSem,50,-33.4445,-70.6441
+78,Código: 30432,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen,$ 280.000,"UF 9,48",1,1,,34 m²,35 m²,,16-06-2021,2020 1ºSem,50,-33.4449,-70.6427
+79,Código: 31851,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Tarapacá,$ 252.000,"UF 8,53",1,1,,35 m²,37 m²,,16-06-2021,2020 1ºSem,55,-33.4471,-70.6488
+80,Código: 16552,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen,$ 320.000,"UF 10,84",1,1,,30 m²,32 m²,,16-06-2021,2020 1ºSem,50,-33.4449,-70.6428
+81,Código: 32549,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen,"UF 14,7",$ 434.083,2,2,,52 m²,57 m²,,16-06-2021,2020 1ºSem,55,-33.4482,-70.6417
+82,Código: 32837,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lira,$ 300.000,"UF 10,16",1,1,,35 m²,36 m²,,16-06-2021,2020 1ºSem,50,-33.4458,-70.6403
+83,,,,,,,,,,,,,,,,,
+84,Código: Add1086240,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Rosa 237, Santiago",$ 358.000,"UF 12,12",2,2,44 m²,,44 m²,37.535.812,16-06-2021,2020 1ºSem,55,-33.4471945,-70.6457893
+85,Código: 33154,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,"UF 12,62",$ 372.662,2,2,,42 m²,44 m²,,16-06-2021,2020 1ºSem,55,-33.4472,-70.6458
+86,Código: 33080,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sara del Campo,"UF 13,6",$ 401.600,2,2,,47 m²,50 m²,,16-06-2021,2020 1ºSem,50,-33.4445,-70.6441
+87,,,,,,,,,,,,,,,,,
+88,Código: Add1049701,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Sara del Campo 535, Santiago",$ 285.000,"UF 9,65",1,1,,,34 m²,,18-05-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+89,Código: 26358,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lira,$ 520.000,"UF 17,61",2,2,,77 m²,82 m²,,16-06-2021,2020 1ºSem,55,-33.4465,-70.6401
+90,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,"UF 13,27",2,2,,,50 m²,,18-05-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+91,Código: 35500,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,$ 290.000,"UF 9,82",1,1,,28 m²,28 m²,,27-06-2021,2020 1ºSem,50,-33.4459,-70.6452
+92,Código: Add1049678,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Rosa 237, Santiago",$ 375.000,"UF 12,7",2,2,49 m²,,49 m²,39.489.762,18-05-2021,2020 1ºSem,55,-33.4471945,-70.6457893
+93,Código: 32565,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,"UF 12,62",$ 372.662,2,2,,42 m²,44 m²,,16-06-2021,2020 1ºSem,55,-33.4472,-70.6458
+94,,,,,,,,,,,,,,,,-33.4445,-70.6441
+95,Código: Add1081800,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Santa Rosa 237, Santiago",$ 358.000,"UF 12,12",2,2,44 m²,,44 m²,,08-06-2021,2020 1ºSem,55,-33.4471945,-70.6457893
+96,Código: Add1086198,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Sara del Campo 535, Santiago",$ 285.000,"UF 9,65",1,1,32 m²,,32 m²,,15-06-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+97,Código: 28577,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Francisco,$ 300.000,"UF 10,16",1,1,,40 m²,40 m²,,16-06-2021,2020 1ºSem,55,-33.4492,-70.6466
+98,Código: Add1050203,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Sara del Campo 535, Santiago",$ 285.000,"UF 9,65",1,1,,,34 m²,,18-05-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+99,Código: 32838,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lira,$ 300.000,"UF 10,16",1,1,,35 m²,35 m²,,16-06-2021,2020 1ºSem,50,-33.4458,-70.6403
+100,Código: Add1086197,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Sara del Campo 535, Santiago",$ 285.000,"UF 9,65",1,1,32 m²,,32 m²,,15-06-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+101,Código: Add1029177,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Carmen 368, Santiago",$ 310.000,"UF 10,5",1,1,35 m²,,35 m²,30.732.845,18-05-2021,2020 1ºSem,55,-33.4482137,-70.6418273
+102,Código: Add1029177,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Carmen 368, Santiago",$ 310.000,"UF 10,5",1,1,35 m²,,35 m²,30.732.845,18-05-2021,2020 1ºSem,55,-33.4482137,-70.6418273
+103,,,,Santa Rosa,$ 310.000,"UF 10,5",2,2,,42 m²,42 m²,,27-06-2021,,55,-33.4473,-70.6455
+104,Código: 34464,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Isidro,$ 370.000,"UF 12,53",2,1,,47 m²,50 m²,,18-06-2021,2020 1ºSem,55,-33.4464,-70.6436
+105,Código: 33142,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,"UF 13,2",$ 389.789,2,2,,45 m²,49 m²,,16-06-2021,2020 1ºSem,55,-33.4472,-70.6458
+106,Código: Add1086246,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 2D2B, Sara del Campo 535, Santiago",$ 379.000,"UF 12,83",2,2,43 m²,,43 m²,,16-06-2021,2020 1ºSem,50,-33.4444887,-70.6440489
+107,Código: 33143,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,"UF 12,41",$ 366.460,2,2,,42 m²,44 m²,,16-06-2021,2020 1ºSem,55,-33.4472,-70.6458
+108,Código: 32200,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,General Gana,$ 360.000,"UF 12,19",2,2,,45 m²,45 m²,,28-06-2021,2020 1ºSem,32,-33.4705,-70.6434
+109,Código: 28942,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Placer,$ 310.000,"UF 10,5",3,1,,55 m²,49 m²,,29-06-2021,,,-33.4757,-70.6488
+110,Código: 17868,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Francisco,$ 500.000,"UF 16,93",1,1,,35 m²,38 m²,,16-06-2021,,,-33.4777,-70.6436
+111,Código: 25977,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,General Gana,$ 350.000,"UF 11,85",2,2,,54 m²,55 m²,,16-06-2021,2020 1ºSem,32,-33.4705,-70.6434
+112,,,,,,,,,,,,,,,,,
+113,Código: 19843,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Diego,UF 10,$ 295.294,1,1,,29 m²,30 m²,,16-06-2021,2020 1ºSem,55,-33.4495,-70.6509
+114,Código: TT-1740769,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"TARAPACA 1324 DP 504, Santiago",$ 260.000,"UF 8,8",1,1,,37 m²,,26.507.326,21-05-2021,2020 1ºSem,51,-33.44813545,-70.65394207
+115,Código: 30679,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Tucapel Jiménez,$ 400.000,"UF 13,55",2,1,,55 m²,56 m²,,16-06-2021,2020 1ºSem,52,-33.4433,-70.6591
+116,Código: 31098,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Bombero Adolfo Ossa,$ 250.000,"UF 8,47",1,1,,22 m²,22 m²,,16-06-2021,2020 1ºSem,48,-33.4413,-70.6516
+117,Código: TT-1597115,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Lord cochrane 166, Santiago",$ 309.000,"UF 10,46",1,1,,26 m²,,,03-06-2021,2020 1ºSem,51,-33.4480584,-70.6548993
+118,Código: 29963,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Nueva San Martín,$ 490.000,"UF 16,59",2,2,,80 m²,82 m²,,16-06-2021,2020 1ºSem,48,-33.4435,-70.6572
+119,,,,,,,:dormitoriosText:,2,,60 m²,,,19-04-2021,,,-33.4480584,-70.6548993
+120,Código: 19841,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Diego,UF 11,$ 324.824,1,1,,31 m²,32 m²,,16-06-2021,2020 1ºSem,55,-33.4495,-70.6509
+121,Código: TT-1752041,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,DUEÑO ARRIENDA DEPARTAMENTO ESTUDIO METRO MONEDA,$ 240.000,"UF 8,13",1,1,,28 m²,,28.218.779,06-06-2021,2020 1ºSem,51,-33.44929345,-70.654392
+122,Código: 34491,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lord Cochrane,$ 350.000,"UF 11,85",1,1,,35 m²,35 m²,,18-06-2021,2020 1ºSem,51,-33.4473,-70.6546
+123,Código: TT-1597093,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"¡Arriendo de departamentos 3 dormitorios, 2 baños amoblados!",$ 498.000,"UF 16,86",3,2,,77 m²,,,03-06-2021,2020 1ºSem,51,-33.4480584,-70.6548993
+124,Código: 35159,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Libertador Bernardo O'Higgins,$ 400.000,"UF 13,55",1,1,,45 m²,45 m²,,29-06-2021,2020 1ºSem,48,-33.4459,-70.654
+125,Código: 32941,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Santa Petronila,$ 300.000,"UF 10,16",1,1,,30 m²,33 m²,,17-06-2021,,,-33.4541,-70.7047
+126,Código: 32452,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida María Rozas Velásquez,$ 350.000,"UF 11,85",2,1,,41 m²,42 m²,,17-06-2021,,,-33.4539,-70.7059
+127,Código: 29062,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida María Rozas Velásquez,$ 220.000,"UF 7,45",1,1,,25 m²,25 m²,,16-06-2021,,,-33.4525,-70.7059
+128,Código: 32174,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Santa Petronila,$ 330.000,"UF 11,18",1,1,,35 m²,35 m²,,16-06-2021,,,-33.4541,-70.7047
+129,,,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Santa Petronila,$ 380.000,"UF 12,87",2,2,,48 m²,50 m²,,24-06-2021,,,-33.4541,-70.7047
+130,Código: 35377,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida Ecuador,$ 370.000,"UF 12,53",2,2,,56 m²,60 m²,,26-06-2021,2020 1ºSem,37,-33.455,-70.7038
+131,Código: 34717,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Abtao,"UF 8,44",$ 249.228,1,1,,32 m²,34 m²,,19-06-2021,,,-33.453,-70.7003
+132,Código: 34679,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Abtao,$ 261.000,"UF 8,84",1,1,,29 m²,31 m²,,19-06-2021,,,-33.453,-70.7003
+133,Código: 33568,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida María Rozas Velásquez,$ 370.000,"UF 12,53",2,1,,36 m²,33 m²,,16-06-2021,,,-33.4534,-70.7059
+134,Código: 25304,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Radal,$ 330.000,"UF 11,18",2,1,,43 m²,45 m²,,16-06-2021,,,-33.45,-70.7027
+135,,,,,,,,1,,31 m²,32 m²,,25-06-2021,,,-33.4539,-70.7059
+136,Código: 3314,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,María Rozas Velásquez,$ 270.000,"UF 9,14",1,1,,35 m²,37 m²,,26-06-2021,,,-33.4543,-70.7055
+137,Código: TT-1711789,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Arriendo Dto. 1dr. 1bñ. cerca Metro las Rejas,$ 260.000,"UF 8,8",1,1,,33 m²,,,08-04-2021,,,-33.4540929,-70.7058035
+138,Código: 32757,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Avenida Los Leones,$ 500.000,"UF 16,93",1,1,,37 m²,47 m²,,16-06-2021,2020 1ºSem,67,-33.4452,-70.599
+139,Código: 30810,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Simón Bolívar,$ 520.000,"UF 17,61",1,2,,46 m²,56 m²,,16-06-2021,2020 1ºSem,67,-33.4489,-70.5971
+140,Código: TT-1765961,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"VICTOR RAE 4500 DP 207, Las Condes",$ 400.000,"UF 13,55",1,1,,45 m²,,40.275.240,27-06-2021,2020 1ºSem,75,-33.43027132,-70.57412136
+141,Código: 34516,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avenida Providencia,$ 395.000,"UF 13,38",1,1,,37 m²,40 m²,,18-06-2021,2020 1ºSem,56,-33.4349,-70.6276
+142,Código: 33297,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avenida Providencia,$ 480.000,"UF 16,25",1,1,,37 m²,40 m²,,18-06-2021,2020 1ºSem,56,-33.4354,-70.6276
+143,Código: 34515,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avenida Providencia,$ 395.000,"UF 13,38",1,1,,37 m²,40 m²,,19-06-2021,2020 1ºSem,56,-33.4349,-70.6276
+144,Código: TT-1752061,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"Obispo Donoso 37, Providencia",$ 550.000,"UF 18,63",3,2,,60 m²,,,06-06-2021,2020 1ºSem,56,-33.43777152,-70.62872649
+145,Código: TT-1713790,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Santa Rosa 634, Santiago. TRATO DIRECTO",$ 275.000,"UF 9,31",1,1,,38 m²,,,12-04-2021,2020 1ºSem,49,-33.4521614,-70.6437304
+146,Código: 22424,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Manuel Antonio Matta,$ 360.000,"UF 12,19",2,2,,47 m²,49 m²,,28-06-2021,2020 1ºSem,35,-33.458,-70.6412
+147,,,,,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,35,-33.458072,-70.64030006
+148,Código: 32406,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Serrano,$ 290.000,"UF 9,82",2,2,,43 m²,43 m²,,16-06-2021,2020 1ºSem,44,-33.4524,-70.648
+149,,,:direccion: Ver ubicación,Carmen,$ 300.000,"UF 10,16",1,1,,35 m²,37 m²,,16-06-2021,2020 1ºSem,49,-33.452,-70.6407
+150,,,,,,,,,,:metrosUtiles: m²,,,04-06-2021,,,-33.45066295,-70.64690113
+151,Código: 34500,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Eyzaguirre,$ 330.000,"UF 11,18",1,1,,46 m²,50 m²,,18-06-2021,2020 1ºSem,55,-33.4526,-70.6498
+152,Código: 35316,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 360.000,"UF 12,19",2,1,,47 m²,51 m²,,27-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+153,Código: 35322,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 400.000,"UF 13,55",2,1,,45 m²,51 m²,,27-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+154,Código: 33897,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 380.000,"UF 12,87",2,1,,46 m²,51 m²,,16-06-2021,2020 1ºSem,37,-33.4325,-70.6803
+155,Código: 21007,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 425.000,"UF 14,39",2,1,,50 m²,51 m²,,20-06-2021,2020 1ºSem,37,-33.4325,-70.6803
+156,Código: 35323,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 400.000,"UF 13,55",2,1,,45 m²,51 m²,,27-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+157,Código: 34330,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 330.000,"UF 11,18",1,1,,34 m²,37 m²,,16-06-2021,2020 1ºSem,37,-33.4325,-70.6803
+158,Código: 34061,Departamento,Departamento en Arriendo Quinta Normal - Metropolitana Ver ubicación,Rivas Vicuña,$ 365.000,"UF 12,36",3,1,,48 m²,50 m²,,20-06-2021,2020 1ºSem,31,-33.4326,-70.6836
+159,,,,,,,,,,,,,,,,,
+160,,,,,,,,,,46 m²,51 m²,,16-06-2021,,,-33.4325,-70.6803
+161,Código: 35324,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 360.000,"UF 12,19",2,1,,45 m²,51 m²,,27-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+162,Código: 28943,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 370.000,"UF 12,53",2,1,,46 m²,51 m²,,16-06-2021,2020 1ºSem,37,-33.43,-70.68
+163,Código: 33167,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 300.000,"UF 10,16",1,1,,25 m²,27 m²,,16-06-2021,2020 1ºSem,37,-33.4325,-70.6803
+164,Código: 33892,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 290.000,"UF 9,82",1,1,,33 m²,34 m²,,16-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+165,Código: 35326,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 360.000,"UF 12,19",2,1,,47 m²,51 m²,,27-06-2021,2020 1ºSem,37,-33.4329,-70.6804
+166,Código: 33163,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Matucana,$ 420.000,"UF 14,22",2,1,,48 m²,51 m²,,20-06-2021,2020 1ºSem,37,-33.4325,-70.6803
+167,Código: 29061,Casa,Casa en Arriendo San Miguel - Metropolitana Ver ubicación,Calle Uno,$ 1.500.000,"UF 50,8",4,4,275 m²,190 m²,,,16-06-2021,,,-33.503,-70.6533
+168,Código: 34042,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Bandera,$ 350.000,"UF 11,85",2,2,,47 m²,49 m²,,16-06-2021,2020 1ºSem,52,-33.4342,-70.6533
+169,Código: Add899783,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,LINDO DEPTO. EN AMUNATEGUI EXCELENTE PRECIO Y UBICACION,$ 275.000,"UF 9,31",1,1,,36 m²,59 m²,63.638.899,05-04-2021,2020 1ºSem,52,-33.4333558,-70.6575171
+170,Código: 30577,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Pablo,$ 420.000,"UF 14,22",2,2,,56 m²,67 m²,,26-06-2021,2020 1ºSem,52,-33.4343,-70.6593
+171,Código: 30577,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Pablo,$ 420.000,"UF 14,22",2,2,,56 m²,67 m²,,26-06-2021,2020 1ºSem,52,-33.4343,-70.6593
+172,Código: TT-1754325,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Bandera 898: 2 dorm + 2 Baños + Bodega / 54 M2,$ 310.000,"UF 10,5",2,2,,51 m²,,,09-06-2021,2020 1ºSem,52,-33.43334301,-70.65328284
+173,Código: TT-1685899,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Manuel Rodríguez 867, Santiago",$ 330.000,"UF 11,18",2,2,,50 m²,,,05-03-2021,2020 1ºSem,52,-33.433772,-70.6599252
+174,Código: 33941,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santo Domingo,$ 300.000,"UF 10,16",1,1,,38 m²,40 m²,,16-06-2021,2020 1ºSem,52,-33.4364,-70.6549
+175,Código: TT-1747949,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Catedral 1310, Santiago",$ 320.000,"UF 10,84",1,1,,44 m²,,,30-05-2021,2020 1ºSem,52,-33.4379642,-70.6558162
+176,Código: 27974,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Martín,$ 340.000,"UF 11,51",2,1,,52 m²,52 m²,,16-06-2021,2020 1ºSem,52,-33.4338,-70.6592
+177,Código: TT-1396376,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Con estacionamiento, metro Santa Ana",$ 350.000,"UF 11,85",1,1,,36 m²,,,25-06-2021,2020 1ºSem,52,-33.4334109,-70.6587522
+178,Código: 30768,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Rosas,$ 300.000,"UF 10,16",1,1,,30 m²,32 m²,,16-06-2021,2020 1ºSem,52,-33.4355,-70.6564
+179,Código: TT-1739760,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Depto 1D/1B +Bodega en Amunategui con Rosas,Santiago",$ 280.000,"UF 9,48",1,1,,36 m²,,,19-05-2021,2020 1ºSem,52,-33.4355787,-70.6571263
+180,Código: 8416,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Mario Kreutzberger,$ 260.000,"UF 8,8",1,1,,28 m²,28 m²,,16-06-2021,2020 1ºSem,52,-33.436,-70.6591
+181,Código: 7710,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santo Domingo,$ 400.000,"UF 13,55",1,1,,48 m²,51 m²,,16-06-2021,2020 1ºSem,52,-33.4373,-70.6578
+182,Código: Add879938,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,DEPTO. 1 DORMITORIO. EXCELENTE PRECIO Y UBICACION EN SAN PABLO,$ 250.000,"UF 8,47",1,1,,29 m²,34 m²,30.425.551,05-04-2021,2020 1ºSem,52,-33.4344883,-70.6588282
+183,Código: Add1050033,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Departamento 1D1B, Morandé 924, Santiago",$ 300.000,"UF 10,16",1,1,32 m²,,32 m²,41.299.709,18-05-2021,2020 1ºSem,52,-33.4328475,-70.6549895
+184,Código: 32574,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Santa Rosa,$ 370.000,"UF 12,53",3,1,,50 m²,52 m²,,16-06-2021,,,-33.5106,-70.6382
+185,Código: 33003,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia,$ 470.000,"UF 15,92",1,1,,43 m²,45 m²,,16-06-2021,2020 1ºSem,88,-33.4146,-70.5898
+186,Código: 21913,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Evaristo Lillo,$ 470.000,"UF 15,92",1,1,,35 m²,40 m²,,18-06-2021,2020 1ºSem,81,-33.4137,-70.5819
+187,,,,,,,,,,:metrosUtiles: m²,,,08-05-2021,,,-33.41352864,-70.58606885
+188,Código: TT-1296306,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Alcántara 388, Las Condes",$ 650.000,"UF 22,01",2,2,,90 m²,,,30-05-2021,2020 1ºSem,88,-33.4173427,-70.5885429
+189,Código: TT-1756705,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"HAMLET 4200 DP 601, Las Condes",$ 790.000,"UF 26,75",3,3,,120 m²,,162.267.269,12-06-2021,2020 1ºSem,88,-33.41228146,-70.58721629
+190,Código: Add1081802,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,"Departamento STUDIO, Juan Mitjans 105, Santiago",$ 263.000,"UF 8,91",1,1,29 m²,,29 m²,,08-06-2021,,,-33.4781874,-70.6201912
+191,Código: Add1086187,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,"Departamento 1D1B, Juan Mitjans 105, Macul",$ 278.000,"UF 9,41",1,1,35 m²,,35 m²,,15-06-2021,,,-33.4781874,-70.6201912
+192,Código: Add1081803,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,"Departamento 1D1B, Juan Mitjans 105, Santiago",$ 278.000,"UF 9,41",1,1,35 m²,,35 m²,,08-06-2021,,,-33.4781874,-70.6201912
+193,Código: 35319,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Zañartu,$ 430.000,"UF 14,56",2,2,,53 m²,57 m²,,28-06-2021,,,-33.4732,-70.6211
+194,Código: Add1081801,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,"Departamento 2D2B, Juan Mitjans 105, Santiago",$ 385.000,"UF 13,04",2,2,55 m²,,55 m²,,08-06-2021,,,-33.4781874,-70.6201912
+195,Código: 34447,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Alfredo Barros Errázuriz,$ 430.000,"UF 14,56",1,1,,45 m²,48 m²,,18-06-2021,2020 1ºSem,80,-33.4273,-70.6129
+196,Código: 29819,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet,$ 650.000,"UF 22,01",1,1,,24 m²,26 m²,,16-06-2021,2020 1ºSem,73,-33.4246,-70.6189
+197,Código: 23235,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Nueva de Lyon,$ 580.000,"UF 19,64",2,2,,70 m²,76 m²,,16-06-2021,2020 1ºSem,73,-33.421,-70.6105
+198,Código: 29818,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet,$ 650.000,"UF 22,01",1,1,,23 m²,25 m²,,16-06-2021,2020 1ºSem,73,-33.4246,-70.6189
+199,,,,Antonio Bellet,$ 650.000,"UF 22,01",1,1,,24 m²,26 m²,,16-06-2021,2020 1ºSem,73,-33.4246,-70.6189
+200,Código: 29821,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet,$ 650.000,"UF 22,01",1,1,,24 m²,26 m²,,16-06-2021,2020 1ºSem,73,-33.4246,-70.6189
+201,Código: 26138,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet,$ 650.000,"UF 22,01",1,1,,23 m²,25 m²,,16-06-2021,2020 1ºSem,73,-33.4246,-70.6189
+202,Código: 14711,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet,$ 530.000,"UF 17,95",1,1,,40 m²,58 m²,,16-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+203,Código: TT-1761118,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"ALMIRANTE PASTENE 70 DP 301, Providencia",$ 310.000,"UF 10,5",1,1,,25 m²,,19.592.749,18-06-2021,2020 1ºSem,68,-33.42791581,-70.61987338
+204,Código: 34718,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Carlos Condell,$ 350.000,"UF 11,85",3,1,,50 m²,53 m²,,20-06-2021,2020 1ºSem,31,-33.5452,-70.6566
+205,Código: 24739,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Vicuña Mackenna,$ 270.000,"UF 9,14",2,1,,50 m²,51 m²,,28-06-2021,2020 1ºSem,31,-33.544,-70.6585
+206,Código: TT-1762912,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,"VICUNA MACKENNA 7801 TORRE 2 1004, La Florida",$ 280.000,"UF 9,48",1,1,,40 m²,,27.839.893,23-06-2021,2020 1ºSem,48,-33.52623382,-70.59790334
+207,Código: 34489,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Brasil,$ 300.000,"UF 10,16",1,1,,34 m²,35 m²,,17-06-2021,2020 1ºSem,46,-33.4393,-70.6647
+208,Código: 22450,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Arzobispo Larraín Gandarillas,$ 480.000,"UF 16,25",2,2,,62 m²,68 m²,,27-06-2021,2020 1ºSem,56,-33.4416,-70.629
+209,Código: TT-1766153,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,"Séptima Avenida 1262 803, San Miguel",$ 445.000,"UF 15,07",2,2,,59 m²,,,28-06-2021,2020 1ºSem,42,-33.50964405,-70.660409
+210,Código: 25118,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Cuarta Avenida,$ 332.000,"UF 11,24",1,1,,32 m²,34 m²,,20-06-2021,2020 1ºSem,42,-33.5058,-70.662
+211,Código: 24561,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Mariano Sánchez Fontecilla,$ 800.000,"UF 27,09",3,2,,98 m²,100 m²,,16-06-2021,2020 1ºSem,88,-33.4222,-70.5956
+212,Código: 32031,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avenida El Bosque,$ 550.000,"UF 18,63",2,2,,57 m²,57 m²,,16-06-2021,2020 1ºSem,75,-33.425,-70.5978
+213,Código: TT-1493020,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,"Nuevo y acogedor departamento estudio en arriendo, Estación Central",$ 220.000,"UF 7,45",1,1,,25 m²,,,15-06-2021,,,-33.4499638,-70.6981765
+214,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lord Cochrane,$ 350.000,"UF 11,85",1,1,,35 m²,35 m²,,18-06-2021,2020 1ºSem,35,-33.4613,-70.6532
+215,Código: 32767,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sazié,$ 300.000,"UF 10,16",1,1,,39 m²,42 m²,,16-06-2021,2020 1ºSem,36,-33.452,-70.6718
+216,Código: 25300,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Gorbea,$ 360.000,"UF 12,19",1,1,,50 m²,55 m²,,16-06-2021,2020 1ºSem,51,-33.4529,-70.6669
+217,Código: 12342,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Vergara,$ 450.000,"UF 15,24",1,1,,62 m²,63 m²,,16-06-2021,2020 1ºSem,51,-33.4538,-70.6609
+218,Código: 19134,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,José Miguel Carrera,$ 500.000,"UF 16,93",2,2,,65 m²,68 m²,,19-06-2021,2020 1ºSem,51,-33.4525,-70.6631
+219,Código: 19325,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Almirante Latorre,$ 375.000,"UF 12,7",1,1,,35 m²,35 m²,,16-06-2021,2020 1ºSem,51,-33.4507,-70.6645
+220,Código: TT-1761496,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,AV.OSSA /AMPLIO Y LUMINOSO DEPTO 2D/2B /METRO PRINCIPE DE GALES,$ 635.000,"UF 21,5",2,2,,"66,5 m²",,,18-06-2021,2020 1ºSem,81,-33.4411363,-70.57305731
+221,Código: 29485,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Trinidad Ramírez,$ 350.000,"UF 11,85",2,1,,45 m²,50 m²,,16-06-2021,2020 1ºSem,34,-33.5409,-70.6755
+222,Código: 31322,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Trinidad Ramírez,$ 300.000,"UF 10,16",2,1,,40 m²,43 m²,,18-06-2021,2020 1ºSem,32,-33.5411,-70.6752
+223,Código: 26720,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Trinidad Ramírez,$ 270.000,"UF 9,14",1,1,,32 m²,34 m²,,18-06-2021,2020 1ºSem,34,-33.5416,-70.6734
+224,Código: TT-1744784,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"DIAGONAL CERVANTES 759 DP 506, Santiago",$ 260.000,"UF 8,8",1,1,,42 m²,,24.279.760,26-05-2021,2020 1ºSem,59,-33.43441243,-70.64912294
+225,Código: TT-1636424,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"monjitas 360, Santiago",$ 260.000,"UF 8,8",1,1,,35 m²,,,23-06-2021,2020 1ºSem,59,-33.4366951,-70.6426011
+226,Código: 30798,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Mosqueto,$ 320.000,"UF 10,84",1,1,,35 m²,38 m²,,16-06-2021,2020 1ºSem,59,-33.4374,-70.6441
+227,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,,1,,35 m²,,,23-06-2021,2020 1ºSem,59,-33.4399,-70.6416
+228,Código: TT-1738983,Departamento,Departamento en Arriendo Recoleta - Metropolitana Ver ubicación,FULL AMOBLADO: Bellavista 165 // 1 dorm - 35 m2,$ 270.000,"UF 9,14",1,1,,35 m²,,,18-05-2021,2020 1ºSem,55,-33.4335239,-70.6413714
+229,Código: 31524,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Merced,UF 22,$ 649.648,2,2,,105 m²,105 m²,,24-06-2021,2020 1ºSem,59,-33.4374,-70.6418
+230,Código: TT-1747520,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"José Miguel de la Barra 449, Santiago",$ 270.000,"UF 9,14",1,1,,35 m²,,,29-05-2021,2020 1ºSem,59,-33.4371764,-70.643241
+231,Código: 23684,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Phillips,$ 680.000,"UF 23,03",2,2,,90 m²,170 m²,,16-06-2021,2020 1ºSem,48,-33.4382,-70.6493
+232,,,,,,,,,,,,31.122.353,07-02-2021,,,-33.4372641,-70.6476744
+233,Código: TT-1738986,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,FULL AMOBLADO: Bellas Artes / 1 dorm - 35 m2,$ 270.000,"UF 9,14",1,1,,35 m²,,,18-05-2021,2020 1ºSem,59,-33.43801866,-70.64667229
+234,Código: TT-1689763,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"ENRIQUE MAC IVER 484 DP 158, Santiago",$ 380.000,"UF 12,87",2,1,,54 m²,,27.119.775,10-03-2021,2020 1ºSem,59,-33.43714787,-70.64739524
+235,Código: 34091,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,José Victorino Lastarria,$ 370.000,"UF 12,53",1,1,,38 m²,38 m²,,18-06-2021,2020 1ºSem,59,-33.4394,-70.6414
+236,Código: 33394,Departamento,Departamento en Arriendo Huechuraba - Metropolitana Ver ubicación,Avenida del Parque,$ 498.000,"UF 16,86",2,2,,76 m²,86 m²,,16-06-2021,,,-33.3895,-70.6179
+237,,,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Luis Amundsen,$ 780.000,"UF 26,41",2,2,,94 m²,134 m²,,25-06-2021,2020 1ºSem,75,-33.4417,-70.6038
+238,Código: TT-1747455,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,"Arriendo Hermoso Depto 2D+1B SALESIANOS 1400, San Miguel",UF 360.000,$ 10.630.612.800,2,1,,46 m²,,37.950.864,29-05-2021,2020 1ºSem,49,-33.491177,-70.65805
+239,Código: 34097,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Teresa Vial,$ 360.000,"UF 12,19",2,2,,47 m²,52 m²,,16-06-2021,2020 1ºSem,49,-33.4918,-70.6589
+240,Código: 31158,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,San Nicolás,$ 300.000,"UF 10,16",2,1,,50 m²,50 m²,,24-06-2021,2020 1ºSem,48,-33.4998,-70.653
+241,Código: 32021,Departamento,Departamento en Arriendo San Joaquín - Metropolitana Ver ubicación,Vicuña Mackenna,$ 420.000,"UF 14,22",2,2,,46 m²,48 m²,,16-06-2021,,,-33.4909,-70.6178
+242,Código: 35465,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Mapocho,$ 400.000,"UF 13,55",2,2,,67 m²,70 m²,,29-06-2021,2020 1ºSem,38,-33.4327,-70.6737
+243,Código: 29498,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Libertad,$ 380.000,"UF 12,87",2,1,,54 m²,54 m²,,16-06-2021,2020 1ºSem,37,-33.4301,-70.6754
+244,Código: 22910,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Esperanza,$ 320.000,"UF 10,84",2,1,,45 m²,45 m²,,16-06-2021,2020 1ºSem,37,-33.4311,-70.6764
+245,Código: 34299,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Zañartu,$ 370.000,"UF 12,53",1,1,,40 m²,44 m²,,18-06-2021,,,-33.4732,-70.6187
+246,Código: 32683,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Zañartu,$ 450.000,"UF 15,24",2,2,,42 m²,51 m²,,16-06-2021,2020 1ºSem,54,-33.4723,-70.6107
+247,Código: 32666,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,San Pío X,$ 900.000,"UF 30,48",3,3,,140 m²,147 m²,,16-06-2021,2020 1ºSem,75,-33.421,-70.6025
+248,Código: 32458,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avenida Luis Thayer Ojeda,$ 420.000,"UF 14,22",1,1,,46 m²,55 m²,,28-06-2021,2020 1ºSem,75,-33.4238,-70.6005
+249,Código: TT-1738121,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"IRARRAZAVAL 5353 DP 1806, Ñuñoa",$ 470.000,"UF 15,92",2,2,,54 m²,,60.015.797,17-05-2021,2020 1ºSem,72,-33.453819,-70.574397
+250,Código: 34853,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrázaval,$ 560.000,"UF 18,96",2,2,,50 m²,63 m²,,24-06-2021,2020 1ºSem,72,-33.4536,-70.5743
+251,Código: 34223,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Libertad,$ 360.000,"UF 12,19",2,2,,58 m²,60 m²,,16-06-2021,2020 1ºSem,37,-33.4283,-70.6747
+252,Código: TT-1733332,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Toesca: FULL AMOBLADO / 45 m2 - 1 Dormitorio,$ 290.000,"UF 9,82",1,1,,40 m²,,,10-05-2021,2020 1ºSem,51,-33.4539477,-70.6559472
+253,Código: 27248,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Zenteno,$ 340.000,"UF 11,51",2,1,,55 m²,55 m²,,16-06-2021,2020 1ºSem,44,-33.4585,-70.6507
+254,Código: 33770,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,General Las Heras,$ 350.000,"UF 11,85",1,1,,37 m²,40 m²,,19-06-2021,2020 1ºSem,51,-33.4533,-70.6576
+255,Código: 34820,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Manuel Rodríguez Sur,$ 320.000,"UF 10,84",2,1,,40 m²,42 m²,,24-06-2021,2020 1ºSem,51,-33.4558,-70.6565
+256,Código: 31975,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Zenteno,$ 340.000,"UF 11,51",2,1,,50 m²,50 m²,,16-06-2021,2020 1ºSem,44,-33.4571,-70.651
+257,Código: 9205,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,Colombia,$ 290.000,"UF 9,82",2,1,,47 m²,44 m²,,24-06-2021,2020 1ºSem,36,-33.526,-70.5887
+258,Código: 21949,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,José Miguel Carrera,$ 380.000,"UF 12,87",1,1,,32 m²,67 m²,,16-06-2021,2020 1ºSem,51,-33.449,-70.6634
+259,Código: 33484,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Ricardo Cumming,$ 495.000,"UF 16,76",3,2,,87 m²,87 m²,,16-06-2021,2020 1ºSem,46,-33.4428,-70.6677
+260,Código: 33137,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel,UF 10,$ 295.294,1,1,,27 m²,27 m²,,23-06-2021,,,-33.3143,-70.743
+261,Código: TT-1754317,Casa,Casa en Arriendo Colina - Metropolitana Ver ubicación,"Moderna e Iluminada Casa Nor-oriente, Casi Nueva!!",$ 1.800.000,"UF 60,96",4,4,480 m²,,162 m²,,09-06-2021,,,-33.25840042,-70.64189948
+262,Código: TT-1752738,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"*SIN CORREDORA* Bajos GGCC - Luminoso,Amplio y Recién Remodelado",$ 600.000,"UF 20,32",2,1,,"65,8 m²",,52.644.961,22-06-2021,2020 1ºSem,75,-33.43793129,-70.60815058
+263,,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Pocuro,$ 1.100.000,"UF 37,25",3,2,,90 m²,120 m²,,29-06-2021,2020 1ºSem,75,-33.43,-70.6
+264,Código: 32473,Departamento,Departamento en Arriendo Independencia - Metropolitana Ver ubicación,Gamero,$ 320.000,"UF 10,84",1,1,,30 m²,34 m²,,22-06-2021,2020 1ºSem,41,-33.4208,-70.6592
+265,Código: 34002,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Avenida Ossa,$ 300.000,"UF 10,16",1,1,,30 m²,36 m²,,16-06-2021,2020 1ºSem,40,-33.5382,-70.6674
+266,Código: 33998,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Avenida Ossa,$ 300.000,"UF 10,16",1,1,,30 m²,36 m²,,16-06-2021,2020 1ºSem,40,-33.5382,-70.6674
+267,Código: 20413,Departamento,Departamento en Arriendo Independencia - Metropolitana Ver ubicación,El Molino,$ 350.000,"UF 11,85",2,1,,46 m²,48 m²,,16-06-2021,2020 1ºSem,41,-33.4182,-70.6659
+268,Código: 31623,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Ortúzar,$ 650.000,"UF 22,01",2,2,,64 m²,66 m²,,16-06-2021,2020 1ºSem,75,-33.4519,-70.5837
+269,Código: TT-1767315,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Alcalde Jorge Monckeberg 35, Ñuñoa",$ 540.000,"UF 18,29",2,2,,54 m²,,,30-06-2021,2020 1ºSem,59,-33.45513067,-70.58319152
+270,Código: 32094,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Capitán Orella,$ 560.000,"UF 18,96",2,2,,90 m²,90 m²,,16-06-2021,2020 1ºSem,70,-33.4528,-70.6017
+271,Código: TT-1733470,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Los tres Antonios 377, Ñuñoa",$ 399.000,"UF 13,51",1,1,,45 m²,,,10-05-2021,2020 1ºSem,70,-33.457736,-70.6033222
+272,Código: 31651,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Armando Jaramillo,$ 550.000,"UF 18,63",1,1,,60 m²,60 m²,,16-06-2021,2020 1ºSem,83,-33.4046,-70.5942
+273,Código: 34878,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Magdalena,$ 1.000.000,"UF 33,86",3,3,,140 m²,150 m²,,24-06-2021,2020 1ºSem,82,-33.4149,-70.5931
+274,Código: 19148,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Enrique Foster,$ 800.000,"UF 27,09",2,3,,99 m²,99 m²,,16-06-2021,2020 1ºSem,82,-33.4151,-70.5948
+275,Código: TT-1746802,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro El Golf - 60 mts2,$ 480.000,"UF 16,25",1,1,,55 m²,,,28-05-2021,2020 1ºSem,88,-33.4181376,-70.5944919
+276,Código: 12735,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avenida María Rozas Velásquez,$ 230.000,"UF 7,79",1,1,,30 m²,30 m²,,23-06-2021,,,-33.4751,-70.7484
+277,Código: 3607,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Frankfort,$ 270.000,"UF 9,14",1,1,,31 m²,31 m²,,26-06-2021,,,-33.5021,-70.6463
+278,Código: 24277,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Vicuña Mackenna,$ 230.000,"UF 7,79",1,1,,20 m²,20 m²,,24-06-2021,2020 1ºSem,50,-33.4398,-70.6364
+279,,,,,,,,,,,,,28-06-2021,,,-33.4651,-70.5854
+280,Código: 28240,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Bello Horizonte,$ 720.000,"UF 24,38",2,2,,93 m²,98 m²,,29-06-2021,2020 1ºSem,73,-33.4155,-70.562
+281,Código: 32471,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Farellones Norte,$ 735.000,"UF 24,89",3,3,,100 m²,100 m²,,26-06-2021,2020 1ºSem,28,-33.3656,-70.5008
+282,Código: 29004,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Santa Petronila,$ 260.000,"UF 8,8",1,1,,30 m²,32 m²,,16-06-2021,,,-33.4497,-70.7051
+283,Código: 22705,Departamento,Departamento en Arriendo Quinta Normal - Metropolitana Ver ubicación,Radal,$ 250.000,"UF 8,47",1,1,,32 m²,32 m²,,17-06-2021,2020 1ºSem,31,-33.4437,-70.7029
+284,Código: TT-1754454,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Domingo Faustino Sarmiento 338 501, Ñuñoa",$ 460.000,"UF 15,58",1,1,,"45,7 m²",,,09-06-2021,2020 1ºSem,68,-33.4502162,-70.61451869
+285,Código: TT-1764999,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Domingo Faustino Sarmiento 123, Ñuñoa",$ 370.000,"UF 12,53",1,1,,42 m²,,,25-06-2021,2020 1ºSem,68,-33.45262622,-70.61398446
+286,Código: TT-1761279,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Departamento 2D+2B en Irarrazaval 1989, Ñuñoa. Incluye bodega y estacionamiento. Excelente ubicación.",$ 600.000,"UF 20,32",2,2,,67 m²,,,18-06-2021,2020 1ºSem,68,-33.45403219,-70.61035143
+287,Código: 32954,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Juan Enrique Concha,$ 630.000,"UF 21,33",2,2,,75 m²,82 m²,,29-06-2021,2020 1ºSem,49,-33.4572,-70.5958
+288,Código: TT-1748400,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"General Carol Urzua 6950, Las Condes","UF 19,3",$ 569.918,1,1,,46 m²,,,31-05-2021,2020 1ºSem,91,-33.4066707,-70.55814384
+289,,,:direccion: Ver ubicación,Avenida Portugal,$ 240.000,"UF 8,13",1,1,,30 m²,31 m²,,16-06-2021,2020 1ºSem,32,-33.3855,-70.6775
+290,Código: 16193,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avenida Portugal,$ 260.000,"UF 8,8",1,1,,34 m²,35 m²,,16-06-2021,2020 1ºSem,32,-33.3855,-70.6776
+291,Código: TT-1751630,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"DARIO URZUA 1825 DP 35, Providencia",$ 480.000,"UF 16,25",2,2,,65 m²,,47.334.706,05-06-2021,2020 1ºSem,92,-33.43160582,-70.61282157
+292,Código: 29043,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,vitacura,$ 1.690.000,"UF 57,23",3,3,,150 m²,150 m²,,16-06-2021,2020 1ºSem,86,-33.3832,-70.5498
+293,Código: 34075,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Carvajal,$ 400.000,"UF 13,55",1,1,,46 m²,50 m²,,16-06-2021,2020 1ºSem,37,-33.5161,-70.6626
+294,Código: 34074,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Carvajal,$ 390.000,"UF 13,21",2,1,,39 m²,43 m²,,16-06-2021,2020 1ºSem,37,-33.5161,-70.6626
+295,Código: 35073,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,La Florida,$ 700.000,"UF 23,71",3,2,,82 m²,94 m²,,23-06-2021,2020 1ºSem,44,-33.5425,-70.5708
+296,Código: 34344,Departamento,Departamento en Arriendo Quinta Normal - Metropolitana Ver ubicación,Mapocho,$ 450.000,"UF 15,24",3,1,,49 m²,52 m²,,16-06-2021,2020 1ºSem,26,-33.4292,-70.6997
+297,Código: TT-1741469,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Departamento amoblado en Encomenderos 230, Las Condes",$ 380.000,"UF 12,87",1,1,,45 m²,,,23-05-2021,2020 1ºSem,82,-33.4164363,-70.6030449
+298,Código: 34589,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Helvecia,$ 430.000,"UF 14,56",1,1,,36 m²,40 m²,,19-06-2021,2020 1ºSem,82,-33.4151,-70.603
+299,Código: 34459,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz,$ 750.000,"UF 25,4",1,1,,100 m²,100 m²,,29-06-2021,2020 1ºSem,82,-33.4115,-70.6017
+300,Código: 29928,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Cerro La Parva,$ 700.000,"UF 23,71",3,2,,84 m²,88 m²,,16-06-2021,2020 1ºSem,70,-33.4052,-70.5851
+301,Código: 27065,Departamento,Departamento en Arriendo La Cisterna - Metropolitana Ver ubicación,Santa Clara,$ 260.000,"UF 8,8",1,1,,23 m²,23 m²,,16-06-2021,,,-33.5202,-70.6556
+302,Código: TT-1740491,Departamento,Departamento en Arriendo Pudahuel - Metropolitana Ver ubicación,"Teniente cruz con Pajaritos, Depto 3D + 2B,",$ 450.000,"UF 15,24",3,2,,64 m²,,,21-05-2021,2020 1ºSem,43,-33.46918648,-70.73688142
+303,Código: 28439,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Avenida Padre Hurtado Sur,$ 620.000,UF 21,2,2,,67 m²,73 m²,,16-06-2021,2020 1ºSem,69,-33.4215,-70.5377
+304,Código: TT-1763303,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"Depto. Nuevo 2D/2B, Cocina Integrada y Estar - Antonio Varas",$ 750.000,"UF 25,4",2,2,,"74,4 m²",,,24-06-2021,2020 1ºSem,73,-33.44257604,-70.61270714
+305,Código: TT-1765524,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"DEPTO. AMOBLADO, LOS MILITARES 5934, Las Condes",$ 790.000,"UF 26,75",2,2,,"67,5 m²",,105.531.213,26-06-2021,2020 1ºSem,88,-33.40489402,-70.57006921
+306,Código: 25650,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Warren Smith,$ 1.400.000,"UF 47,41",4,3,,110 m²,130 m²,,16-06-2021,2020 1ºSem,81,-33.4097,-70.5744
+307,Código: 28083,Casa,Casa en Arriendo La Reina - Metropolitana Ver ubicación,Talinay,$ 2.050.000,"UF 69,42",5,3,1.000 m²,220 m²,,,16-06-2021,2020 1ºSem,68,-33.4591,-70.5256
+308,Código: TT-1740119,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,"FERNANDO LAZCANO 1240 PISO 18, San Miguel",$ 450.000,"UF 15,24",2,2,,68 m²,,58.925.816,20-05-2021,2020 1ºSem,59,-33.48421387,-70.65098119
+309,,,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,"SAN IGNACIO 3452 DP 158 DP 158, San Miguel",$ 590.000,"UF 19,98",3,2,,81 m²,,71.171.434,22-04-2021,,,-33.4858954,-70.65547042
+310,Código: :codigo:,,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,San Petersburgo,$ 350.000,"UF 11,85",2,1,,49 m²,50 m²,,16-06-2021,2020 1ºSem,36,-33.5158,-70.6475
+311,Código: TT-1733023,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"catedral 3058, Santiago",$ 235.000,"UF 7,96",1,1,,27 m²,,,08-05-2021,2020 1ºSem,36,-33.4400955,-70.67730283
+312,Código: TT-1756854,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"García Reyes 30, Santiago",$ 280.000,"UF 9,48",1,1,,39 m²,,,13-06-2021,2020 1ºSem,35,-33.44694348,-70.67057705
+313,Código: 34107,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Seminario,$ 390.000,"UF 13,21",1,1,,31 m²,35 m²,,28-06-2021,2020 1ºSem,59,-33.4515,-70.6275
+314,Código: TT-1766511,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,"alcalde pedro alarcon 921, San Miguel",$ 300.000,"UF 10,16",1,1,,45 m²,,,29-06-2021,2020 1ºSem,45,-33.4863454,-70.6492069
+315,Código: 28748,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen,$ 410.000,"UF 13,88",2,2,,52 m²,52 m²,,16-06-2021,,,-33.4646,-70.6377
+316,Código: 34166,Departamento,Departamento en Arriendo Renca - Metropolitana Ver ubicación,Francisco Errázuriz,$ 350.000,"UF 11,85",2,2,,55 m²,55 m²,,18-06-2021,2020 1ºSem,30,-33.4053,-70.7145
+317,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,48,-33.5095,-70.612
+318,Código: Add1062051,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Departamento Polo,$ 3.800.000,"UF 128,68",4,5,,350 m²,,,04-05-2021,2020 1ºSem,103,-33.3792498,-70.582346
+319,Código: TT-1760697,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Las Verbenas, Las Condes",$ 430.000,"UF 14,56",1,1,,41 m²,,,17-06-2021,2020 1ºSem,109,-33.39451893,-70.54832926
+320,Código: 34465,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Siria,$ 400.000,"UF 13,55",2,2,,70 m²,74 m²,,29-06-2021,2020 1ºSem,33,-33.4863,-70.5869
+321,Código: 33895,Departamento,Departamento en Arriendo Recoleta - Metropolitana Ver ubicación,Santos Dumont,$ 320.000,"UF 10,84",1,1,,40 m²,40 m²,,22-06-2021,,,-33.422,-70.6448
+322,Código: 27016,Departamento,Departamento en Arriendo Independencia - Metropolitana Ver ubicación,Venecia,$ 330.000,"UF 11,18",1,1,,32 m²,32 m²,,16-06-2021,2020 1ºSem,46,-33.4078,-70.6631
+323,Código: 12185,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Avenida Américo Vespucio,$ 250.000,"UF 8,47",2,2,,45 m²,45 m²,,29-06-2021,2020 1ºSem,26,-33.4967,-70.5854
+324,Código: 30835,Departamento,Departamento en Arriendo Independencia - Metropolitana Ver ubicación,Avenida Independencia,$ 320.000,"UF 10,84",1,1,,36 m²,40 m²,,28-06-2021,2020 1ºSem,41,-33.4185,-70.6568
+325,Código: 20628,Casa,Casa en Arriendo La Florida - Metropolitana Ver ubicación,Jardín Alto,$ 1.500.000,"UF 50,8",4,4,120 m²,120 m²,,,16-06-2021,2020 1ºSem,45,-33.5308,-70.5597
+326,Código: 202005787,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,UF 26,$ 767.766,1,1,,42 m²,50 m²,59.657.351,28-05-2021,2020 1ºSem,88,-33.4131,-70.5881
+327,Código: 202005048,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,$ 550.000,"UF 18,63",1,1,,45 m²,49 m²,62.406.998,03-06-2021,2020 1ºSem,88,-33.4155,-70.5876
+328,Código: 202005788,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,UF 26,$ 767.766,1,1,,42 m²,50 m²,59.657.351,28-05-2021,2020 1ºSem,88,-33.4118,-70.588
+329,Código: 202008845,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 700.000,"UF 23,71",2,2,,75 m²,80 m²,172.225.110,28-05-2021,2020 1ºSem,88,-33.4179,-70.588
+330,Código: 202078338,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Callao / Metro Alcántara / Barrio El Golf,UF 50,$ 1.476.474,3,3,,113 m²,137 m²,137.646.200,11-05-2021,2020 1ºSem,88,-33.4169,-70.5899
+331,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,UF 42,$ 1.240.238,2,2,,72 m²,85 m²,98.871.821,28-05-2021,2020 1ºSem,88,-33.414,-70.5888
+332,Código: Add1075878,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcántara,UF 80,$ 2.362.358,4,5,300 m²,300 m²,291 m²,440.262.280,28-05-2021,2020 1ºSem,88,-33.4140765,-70.5899439
+333,Código: 202005385,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,UF 42,$ 1.240.238,2,2,,72 m²,85 m²,98.789.357,28-05-2021,2020 1ºSem,88,-33.4138,-70.5887
+334,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcantara // Jean Mermoz/Metro Escuela Militar // Las Torcazas,UF 52,$ 1.535.532,4,3,,185 m²,,190.205.783,05-04-2021,2020 1ºSem,88,-33.4145,-70.5883
+335,Código: 202037004,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,GOLF. Frente a plaza Navidadad,$ 1.150.000,"UF 38,94",4,3,,218 m²,240 m²,186.903.825,23-02-2021,2020 1ºSem,88,-33.4152,-70.5874
+336,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 1.850.000,"UF 62,65",4,4,,220 m²,266 m²,265.105.043,28-05-2021,2020 1ºSem,88,-33.4116,-70.5877
+337,Código: :codigo:,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 1.050.000,"UF 35,56",3,3,,160 m²,170 m²,5.874.627,28-05-2021,2020 1ºSem,88,-33.4143,-70.5899
+338,,,:direccion: Ver ubicación,EL GOLF,UF 42,$ 1.240.238,2,2,,70 m²,83 m²,98.805.849,28-05-2021,2020 1ºSem,88,-33.4125,-70.5866
+339,Código: 202006029,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 1.100.000,"UF 37,25",3,2,,178 m²,198 m²,171.712.006,29-05-2021,2020 1ºSem,88,-33.418,-70.587
+340,Código: 202077736,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Malaga / Avda.Pdte.Errazuriz,$ 850.000,"UF 28,78",2,2,,"85,5 m²","89,5 m²",79.991.911,12-03-2021,2020 1ºSem,88,-33.4192,-70.5829
+341,Código: 201036601,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Malaga,UF 190,$ 5.610.601,3,3,1.283 m²,366 m²,,1.173.317.545,05-05-2020,2020 1ºSem,102,-33.4197,-70.5876
+342,Código: 202005749,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"CLÁSICO Y LUJOSO DEPARTAMENTO IDEAL PARA FAMILIA NUMEROSA, ACCESO DIFERENCIADO PARA SERVICIO",UF 59,$ 1.742.239,5,5,,235 m²,260 m²,265.105.043,09-06-2021,2020 1ºSem,88,-33.4121,-70.5876
+343,,,,,$ 1.250.000,"UF 42,33",3,2,,100 m²,132 m²,149.030.995,30-06-2021,2020 1ºSem,88,-33.412,-70.5881
+344,Código: 202375913,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,irarrazabal esquina Antonio Varas,$ 535.000,"UF 18,12",2,2,,80 m²,85 m²,67.093.915,24-05-2021,2020 1ºSem,68,-33.4535,-70.6103
+345,Código: 202078874,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,"Carmen Covarrubias/Dublé Almeyda, Ñuñoa",$ 570.000,"UF 19,3",3,2,,66 m²,75 m²,40.624.097,24-06-2021,2020 1ºSem,68,-33.456,-70.6121
+346,Código: 202375959,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrázaval,$ 320.000,"UF 10,84",1,1,,40 m²,42 m²,45.019.854,25-05-2021,2020 1ºSem,68,-33.4538,-70.6103
+347,Código: 1028068041-35,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Brasil,$ 260.000,"UF 8,8",1,1,,29 m²,4 m²,20.369.229,26-06-2021,2020 1ºSem,36,-33.4336,-70.6646
+348,Código: FPN1996,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Santa Ana - Metro Santa Ana,$ 260.000,"UF 8,8",1,1,,34 m²,37 m²,5.267.306,23-06-2020,2020 1ºSem,52,-33.4336,-70.66
+349,Código: FPN1992,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Santa Ana - Metro Santa Ana,$ 430.000,"UF 14,56",3,2,,52 m²,55 m²,468.404,23-06-2020,2020 1ºSem,52,-33.4331,-70.6601
+350,Código: 1028018146-264,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,CATEDRAL,$ 220.000,"UF 7,45",1,1,,28 m²,28 m²,19.318.434,16-06-2021,2020 1ºSem,46,-33.4385,-70.6629
+351,,,,,$ 450.000,"UF 15,24",2,2,,75 m²,75 m²,65.651.968,23-06-2020,2020 1ºSem,49,-33.4985,-70.658
+352,Código: 202375806,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Gran Avenida,$ 360.000,"UF 12,19",1,1,,33 m²,37 m²,25.660.352,08-05-2021,2020 1ºSem,43,-33.4925,-70.652
+353,Código: 202376321,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Avda. La Marina,$ 480.000,"UF 16,25",3,2,,76 m²,80 m²,63.563.875,12-06-2021,2020 1ºSem,43,-33.4982,-70.6536
+354,Código: 1028018284-36,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Guardia Marina Riquelme,$ 355.000,"UF 12,02",2,1,,"44,5 m²","44,5 m²",30.932.930,18-02-2021,2020 1ºSem,49,-33.496,-70.6573
+355,Código: FAP2770,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Manquehue - Cerro El Plomo / Rosario Norte,$ 450.000,"UF 15,24",1,1,,46 m²,46 m²,53.082.228,06-05-2020,2020 1ºSem,88,-33.4055,-70.5735
+356,,,,,$ 590.000,"UF 19,98",1,1,,39 m²,49 m²,62.859.273,17-06-2021,2020 1ºSem,93,-33.4004,-70.5706
+357,Código: FLM705,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Manquehue - La Castellana Norte,$ 850.000,"UF 28,78",2,2,,75 m²,80 m²,72.270.136,30-11-2019,2020 1ºSem,88,-33.4072,-70.5743
+358,Código: 1028076001-47,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Los Militares,$ 1.490.000,"UF 50,46",4,3,,132 m²,155 m²,166.061.845,30-05-2021,2020 1ºSem,88,-33.4062,-70.5715
+359,Código: 1028063001-199,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Warren Smith,UF 40,$ 1.181.179,3,2,,96 m²,96 m²,104.538.905,16-06-2021,2020 1ºSem,81,-33.4096,-70.5745
+360,Código: 202376482,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Bellas Artes,$ 250.000,"UF 8,47",1,1,,25 m²,25 m²,27.530.347,18-06-2021,2020 1ºSem,59,-33.4361,-70.6481
+361,Código: 202053205,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Monjitas / 21 de mayo,$ 340.000,"UF 11,51",2,1,,44 m²,45 m²,22.587.799,03-06-2021,2020 1ºSem,48,-33.4363,-70.6497
+362,Código: 19112,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Huérfanos,$ 300.000,"UF 10,16",1,1,,30 m²,30 m²,26.339.989,05-11-2020,2020 1ºSem,59,-33.4392,-70.645
+363,Código: 1028081006-8,Departamento,Departamento en Arriendo Recoleta - Metropolitana Ver ubicación,Bellavista,$ 290.000,"UF 9,82",1,1,,35 m²,35 m²,17.712.321,08-06-2021,2020 1ºSem,55,-33.4334,-70.6418
+364,Código: 1028070009-10,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Monjitas,$ 270.000,"UF 9,14",1,1,,45 m²,45 m²,28.428.297,30-04-2021,2020 1ºSem,59,-33.4365,-70.642
+365,Código: 202007012,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Barrio Lastarria / Metro U. Católica,$ 480.000,"UF 16,25",1,1,,38 m²,38 m²,46.526.118,20-05-2020,2020 1ºSem,59,-33.4394,-70.6414
+366,,,,,,,,,,,,,,,,,
+367,,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,pucara,$ 500.000,"UF 16,93",2,2,,54 m²,63 m²,48.557.883,23-06-2020,2020 1ºSem,61,-33.4445,-70.5801
+368,Código: 202376514,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Simón BolÍvar /Coventry,$ 520.000,"UF 17,61",2,1,,70 m²,70 m²,41.168.853,24-06-2021,2020 1ºSem,75,-33.447,-70.5857
+369,Código: 202078500,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Departamento con amplia terraza KM,$ 750.000,"UF 25,4",3,2,,69 m²,82 m²,95.903.346,27-05-2021,2020 1ºSem,77,-33.4376,-70.6162
+370,Código: 202006150,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Parque Inés De Suarez / Pocuro / 3d-2b / 95 M2/ Cod.ee04,$ 780.000,"UF 26,41",3,2,,95 m²,105 m²,119.789.852,31-05-2021,2020 1ºSem,75,-33.4373,-70.6114
+371,Código: 28420,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Manuel montt,$ 400.000,"UF 13,55",1,1,,50 m²,45 m²,40.304.835,09-06-2021,2020 1ºSem,75,-33.4312,-70.6193
+372,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Carlos de Apoquindo - Colegio Cumbres - Av Plaza,$ 1.700.000,"UF 57,57",4,4,,159 m²,159 m²,190.873.583,29-05-2021,2020 1ºSem,82,-33.3959,-70.5061
+373,Código: 31492,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Avda.Macul/Los Platanos,$ 550.000,"UF 18,63",3,2,,81 m²,,331.301.386,07-05-2021,2020 1ºSem,33,-33.4827,-70.5967
+374,Código: 202374034,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Macul-Armando Moock,$ 400.000,"UF 13,55",2,2,,"60,5 m²","70,8 m²",51.987.269,24-06-2021,,,-33.4879,-70.5992
+375,Código: 52248,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avda. Providencia/Antonio Varas,$ 600.000,"UF 20,32",2,2,,62 m²,,51.066.061,08-04-2021,2020 1ºSem,68,-33.4268,-70.6177
+376,Código: 1028018199-44,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Andrés de Fuenzalida,$ 550.000,"UF 18,63",1,2,,70 m²,70 m²,83.851.569,02-06-2021,2020 1ºSem,73,-33.4217,-70.6111
+377,Código: 21934,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Nueva Providencia,$ 530.000,"UF 17,95",2,1,,57 m²,57 m²,35.228.008,13-01-2021,2020 1ºSem,52,-33.4271,-70.6157
+378,Código: 1028018199-43,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,ANDRES DE FUENZALIDA,$ 500.000,"UF 16,93",1,2,,70 m²,70 m²,83.851.569,02-06-2021,2020 1ºSem,73,-33.4217,-70.6111
+379,Código: 202003513,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio varas con providencia,$ 350.000,"UF 11,85",1,1,,50 m²,50 m²,4.961.511,19-06-2021,2020 1ºSem,52,-33.4295,-70.6167
+380,Código: 201044733,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Europa / Marchant Pereira / Pedro de Valdivia,UF 110,$ 3.248.242,10,1,465 m²,425 m²,,349.167.309,24-08-2020,,,-33.4284,-70.6121
+381,Código: 28373,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Francisco Antonio Encina,$ 450.000,"UF 15,24",1,1,,35 m²,45 m²,28.056.881,11-06-2021,2020 1ºSem,73,-33.4249,-70.616
+382,Código: 202005709,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,A PASOS DEL METRO MANUEL MONTT,$ 370.000,"UF 12,53",1,1,,38 m²,80 m²,28.520.344,30-04-2021,2020 1ºSem,68,-33.4272,-70.6178
+383,Código: Add1084261,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"San Sebastian, a pasos de metro, conectividad",$ 550.000,"UF 18,63",1,1,55 m²,43 m²,46 m²,47.754.603,12-06-2021,2020 1ºSem,82,-33.4151907,-70.6006273
+384,Código: FEG4181,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Centro Financiero de Santiago - Encomenderos con San Sebastían,$ 500.000,"UF 16,93",1,1,,36 m²,40 m²,34.346.030,06-05-2020,2020 1ºSem,82,-33.4168,-70.6027
+385,Código: 202074109,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL BOSQUE CON APOQUINDO,$ 520.000,"UF 17,61",1,1,,41 m²,49 m²,45.530.806,15-04-2020,2020 1ºSem,82,-33.4166,-70.602
+386,Código: 202045438,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,AV. Providencia / Metro Tobalaba,$ 750.000,"UF 25,4",2,2,,105 m²,110 m²,103.298.550,31-03-2021,2020 1ºSem,75,-33.4192,-70.6034
+387,Código: 202006159,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Calle Luz / Presidente Riesco / 4d-3b/ 175m2 Cod. Lh1,$ 1.500.000,"UF 50,8",4,3,,153 m²,175 m²,167.784.547,01-06-2021,2020 1ºSem,82,-33.4115,-70.6015
+388,Código: 202134904,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Barrio el Golf / cercano a Metro,$ 450.000,"UF 15,24",1,1,,45 m²,55 m²,43.788.567,16-05-2021,2020 1ºSem,82,-33.4165,-70.6022
+389,Código: 28641,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Zurich,"UF 31,3",$ 924.272,3,3,,141 m²,158 m²,133.640.282,15-06-2021,2020 1ºSem,82,-33.4153,-70.6033
+390,Código: 28458,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Encomenderos,$ 450.000,"UF 15,24",2,1,,45 m²,50 m²,37.898.725,10-06-2021,2020 1ºSem,82,-33.4154,-70.6018
+391,Código: 20636,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco,$ 1.270.000,"UF 43,01",5,3,,180 m²,220 m²,189.453.072,03-12-2020,2020 1ºSem,82,-33.4117,-70.6014
+392,Código: Add1074167,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Disponibilidad inmediata, Luz con Av. Presidente Riesco, metro Tobalaba",$ 930.000,"UF 31,49",3,2,105 m²,100 m²,100 m²,120.190.571,25-05-2021,2020 1ºSem,82,-33.41327,-70.6025584
+393,Código: 52299,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL BOSQUE NORTE/PLAZA PERU,$ 660.000,"UF 22,35",2,2,,70 m²,,66.065.520,09-04-2021,2020 1ºSem,82,-33.4157,-70.6003
+394,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz con Presidente Riesco,$ 700.000,"UF 23,71",1,1,,70 m²,80 m²,73.112.349,09-11-2020,2020 1ºSem,82,-33.4107,-70.6017
+395,,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,102,-33.3806,-70.537
+396,Código: 27374,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Capitan Crossbie,$ 590.000,"UF 19,98",2,2,,66 m²,70 m²,84.227.803,12-05-2021,2020 1ºSem,93,-33.3946,-70.5592
+397,Código: 202376523,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Wisconsin,$ 600.000,"UF 20,32",2,2,,50 m²,61 m²,81.116.384,24-06-2021,2020 1ºSem,60,-33.3921,-70.5574
+398,Código: 202077583,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Hermanos Cabot con las tranqueras,$ 2.980.000,"UF 100,92",5,4,,215 m²,220 m²,191.780.241,01-03-2021,2020 1ºSem,93,-33.3936,-70.5551
+399,Código: 202018050,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,IBSEN-NORUEGA,$ 990.000,"UF 33,53",3,3,,100 m²,110 m²,115.265.689,11-05-2021,2020 1ºSem,91,-33.4055,-70.563
+400,Código: 202114665,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Santa Brígida/Noruega,UF 51,$ 1.506.003,3,4,,140 m²,154 m²,173.785.813,27-06-2021,2020 1ºSem,91,-33.4028,-70.5617
+401,Código: 1028046016-156,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Manquehue / Cerro El Plomo,$ 980.000,"UF 33,19",3,3,,122 m²,126 m²,120.903.936,02-06-2021,2020 1ºSem,77,-33.4028,-70.5686
+402,Código: 24548,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Olav,UF 15.000,$ 442.942.200,4,3,,180 m²,210 m²,187.774.080,16-06-2021,2020 1ºSem,91,-33.406,-70.5661
+403,Código: 202008747,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 69,$ 2.037.534,3,3,,240 m²,260 m²,248.662.225,28-05-2021,2020 1ºSem,82,-33.4127,-70.5937
+404,Código: 202043273,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Plaza El Golf,$ 3.900.000,"UF 132,07",4,3,,395 m²,430 m²,566.050.883,06-02-2019,2020 1ºSem,88,-33.4143,-70.5921
+405,Código: 202005671,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Clásico departamento amoblado en Sector el Golf*CON DOS ESTACIONAMIENTOS*,$ 1.400.000,"UF 47,41",4,3,,170 m²,195 m²,256.561.900,22-05-2021,2020 1ºSem,88,-33.4136,-70.5917
+406,Código: 18847,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Napoleón,$ 1.500.000,"UF 50,8",3,3,,130 m²,135 m²,128.674.104,05-11-2020,2020 1ºSem,82,-33.4184,-70.5983
+407,Código: 202005763,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Exclusivo y seguro departamento Ideal para extranjeros expatriados, frente PLAZA EL GOLF a pasos de CLUB DE GOLF LOS LEONES, METRO el golf",UF 40,$ 1.181.179,4,3,,100 m²,125 m²,157.872.425,10-06-2021,2020 1ºSem,88,-33.4129,-70.5918
+408,Código: 202376151,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Tobalaba,$ 650.000,"UF 22,01",2,2,,60 m²,60 m²,63.498.395,02-06-2021,2020 1ºSem,82,-33.4167,-70.5994
+409,Código: 202053207,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,vecinal / Callao,$ 450.000,"UF 15,24",1,2,,56 m²,60 m²,58.581.800,04-06-2021,2020 1ºSem,82,-33.4189,-70.5987
+410,Código: 202008753,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,"UF 51,47",$ 1.519.882,4,3,,140 m²,160 m²,191.937.900,28-05-2021,2020 1ºSem,88,-33.4142,-70.5908
+411,,,,,,,,,,,,,,,,,-70.5985
+412,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 1.500.000,"UF 50,8",2,2,,113 m²,133 m²,137.646.200,28-05-2021,2020 1ºSem,88,-33.417,-70.591
+413,Código: 202003475,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,$ 3.500.000,"UF 118,53",4,3,,239 m²,259 m²,192.840.536,28-05-2021,2020 1ºSem,82,-33.4123,-70.5928
+414,Código: 202008786,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,$ 950.000,"UF 32,17",3,2,,120 m²,125 m²,81.908.010,28-05-2021,2020 1ºSem,88,-33.4183,-70.5935
+415,Código: 1028026042-22,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Enrique Foster Norte,$ 1.500.000,"UF 50,8",3,3,,274 m²,274 m²,262.890.574,28-08-2019,2020 1ºSem,82,-33.4144,-70.5946
+416,Código: 23968,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Av. Presidente Riesco,UF 300,$ 8.858.844,5,8,,750 m²,800 m²,416.102.176,13-04-2021,2020 1ºSem,88,-33.4118,-70.59
+417,,,,,,,,,,,,,,,,,
+418,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Napoleón,$ 1.200.000,"UF 40,64",3,3,,130 m²,135 m²,128.674.104,05-11-2020,2020 1ºSem,82,-33.4184,-70.5983
+419,Código: 202078750,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,METRO EL GOLF - Las Condes - Barrio El Golf,$ 900.000,"UF 30,48",3,2,,140.000 m²,160.000 m²,132.697.426,12-06-2021,2020 1ºSem,82,-33.4162,-70.5987
+420,Código: 5481,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Carmencita,$ 2.500.000,"UF 84,66",4,4,,230 m²,290 m²,318.400.747,05-11-2020,2020 1ºSem,82,-33.4153,-70.5992
+421,Código: 27995,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Glamis,$ 600.000,"UF 20,32",,1,,38 m²,38 m²,46.456.256,29-05-2021,2020 1ºSem,82,-33.4133,-70.5958
+422,,,:direccion: Ver ubicación,Carmencita,$ 2.350.000,"UF 79,58",3,3,,218 m²,240 m²,318.400.747,24-11-2020,2020 1ºSem,82,-33.415,-70.5989
+423,,,,,,,2,2,,126 m²,156 m²,123.980.490,28-05-2021,,,-33.4128,-70.5995
+424,Código: 1573440,Casa,Casa en Arriendo Ñuñoa - Metropolitana Ver ubicación,Espectacular casa con amplio terreno,$ 1.700.000,"UF 57,57",4,2,560 m²,150 m²,,162.731.467,22-12-2020,2020 1ºSem,72,-33.4386,-70.5778
+425,Código: 202045433,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Sector Parque Las Rosas/ Camino San José de la Sierra/ Av. La Dehesa,$ 590.000,"UF 19,98",3,2,,71 m²,71 m²,59.002.895,29-03-2021,2020 1ºSem,66,-33.3613,-70.5045
+426,Código: 1028063001-201,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,San Jose de la Sierra,UF 30,$ 885.884,4,3,,135 m²,135 m²,141.219.460,28-06-2021,2020 1ºSem,81,-33.3674,-70.5061
+427,,,,,,,1,1,,45 m²,50 m²,46.186.749,04-06-2021,,,-33.4079,-70.5451
+428,,,,,,,1,1,,45 m²,50 m²,46.186.749,04-06-2021,,,-33.4079,-70.5451
+429,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,70,-33.4526,-70.5942
+430,Código: 202078816,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Plaza Ñuñoa - Dublé Almeyda,$ 580.000,"UF 19,64",2,2,,68 m²,72 m²,39.903.906,18-06-2021,2020 1ºSem,49,-33.4571,-70.595
+431,,,,,,,,,,,,,,,,-33.4541,-70.5929
+432,Código: 202236,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Plaza Ñuñoa,"UF 13,58",$ 401.010,1,1,,35 m²,40 m²,38.265.845,14-04-2021,2020 1ºSem,70,-33.4548,-70.5937
+433,Código: 202007410,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,LO CASTILLO-ESPOZ-VITACURA,UF 55,$ 1.624.121,2,3,,87 m²,167 m²,134.363.119,04-09-2020,2020 1ºSem,91,-33.3981,-70.5897
+434,,,,:titulo:,UF 43,$ 1.269.767,3,2,,140 m²,150 m²,116.216.177,20-06-2021,2020 1ºSem,97,-33.3902,-70.5877
+435,Código: 202376339,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Líder La Dehesa,$ 580.000,"UF 19,64",1,1,,40 m²,46 m²,53.708.661,13-06-2021,2020 1ºSem,90,-33.3496,-70.5228
+436,Código: 202152497,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Alameda / Lastarria,$ 300.000,"UF 10,16",1,1,,33 m²,35 m²,44.049.497,06-05-2021,2020 1ºSem,59,-33.4402,-70.6416
+437,Código: 202005254,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sta victoria con Carmen,$ 350.000,"UF 11,85",2,1,,45 m²,45 m²,33.382.780,10-06-2021,2020 1ºSem,55,-33.4487,-70.6415
+438,Código: :codigo:,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa,$ 395.000,"UF 13,38",2,2,,48 m²,52 m²,33.083.809,23-06-2020,2020 1ºSem,50,-33.4456,-70.6451
+439,Código: 28441,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Isidro,$ 400.000,"UF 13,55",2,2,,60 m²,63 m²,46.900.352,10-06-2021,2020 1ºSem,50,-33.4436,-70.6446
+440,,,,,,,,,,,,,,,,,
+441,Código: 202376293,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,A metros de la 28 Comisaría de Fuerzas Especiales,$ 290.000,"UF 9,82",1,1,,"32,6 m²","34,7 m²",37.456.276,10-06-2021,2020 1ºSem,55,-33.4489,-70.6425
+442,Código: 202006419,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Rosa / Tarapaca,$ 330.000,"UF 11,18",2,2,,43 m²,50 m²,35.436.030,29-06-2021,2020 1ºSem,55,-33.447,-70.6455
+443,Código: 202006307,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen 187,$ 430.000,"UF 14,56",2,2,,70 m²,76 m²,49.545.017,12-06-2021,2020 1ºSem,50,-33.4454,-70.643
+444,,,,,,,,,,,,,,,,,
+445,Código: 1028057036-44,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Agustinas,$ 330.000,"UF 11,18",1,1,,13 m²,44 m²,28.774.279,28-05-2021,2020 1ºSem,48,-33.4403,-70.6463
+446,Código: 202005572,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,¡¡¡San Isidro entre Tarapaca y Marin!!!!CON COCINA CERRA Y LOGIA*,$ 340.000,"UF 11,51",2,1,,50 m²,53 m²,38.626.588,03-03-2021,2020 1ºSem,55,-33.447,-70.6439
+447,Código: 202231701,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Colegio Los Alerces,$ 950.000,"UF 32,17",2,2,,110 m²,150 m²,161.688.751,24-06-2021,2020 1ºSem,90,-33.3598,-70.5217
+448,Código: 1028060023-12,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,NUEVO SIN USO EL TRANQUE/ LO BARNECHEA,UF 70,$ 2.067.063,3,3,,140 m²,232 m²,3.075.551.689,12-03-2020,2020 1ºSem,90,-33.3594,-70.5233
+449,Código: 1028060023-15,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,EL TRANQUE/ BEAUTIFUL/ BRAND NEW/ YEAR 2019,UF 70,$ 2.067.063,3,3,,136 m²,232 m²,348.567.868,17-12-2019,2020 1ºSem,90,-33.3594,-70.5233
+450,,,,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,,2020 1ºSem,90,-33.3589,-70.5207
+451,Código: 202078628,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz / Presidente Riesco,$ 750.000,"UF 25,4",3,3,,98 m²,106 m²,94.644.534,03-06-2021,2020 1ºSem,87,-33.4094,-70.6009
+452,Código: 1028057049-24,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,providencia,$ 630.000,"UF 21,33",2,2,,100 m²,100 m²,54.632.687,02-06-2021,2020 1ºSem,80,-33.4322,-70.6095
+453,,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Providencia,$ 530.000,"UF 17,95",2,2,,60 m²,65 m²,59.346.240,13-06-2021,2020 1ºSem,80,-33.4359,-70.6035
+454,Código: 202045196,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Pocuro / Holanda,UF 50,$ 1.476.474,3,2,,115 m²,115 m²,151.783.328,29-12-2020,2020 1ºSem,75,-33.4341,-70.6
+455,Código: 52862,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Pocuro/Suecia,$ 750.000,"UF 25,4",2,2,,80 m²,,87.821.821,20-05-2021,2020 1ºSem,80,-33.4359,-70.6023
+456,Código: 202054890,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,METRO INES DE SUAREZ,$ 500.000,"UF 16,93",1,1,,40 m²,49 m²,46.386.003,07-06-2021,2020 1ºSem,75,-33.4373,-70.6013
+457,,,,,,,,,:superficieTerreno: m²,56 m²,"67,5 m²",53.692.031,12-05-2021,,,-33.4397,-70.6037
+458,Código: 202008010,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Eliodoro Yañez,$ 1.500.000,"UF 50,8",4,3,,140 m²,160 m²,177.065.521,28-05-2021,2020 1ºSem,80,-33.43,-70.6041
+459,Código: 202376463,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,POCURO,$ 520.000,"UF 17,61",2,2,,81 m²,83 m²,63.146.891,18-06-2021,2020 1ºSem,75,-33.4339,-70.6003
+460,Código: 28031,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Tucapel,$ 420.000,"UF 14,22",1,1,,38 m²,38 m²,,28-05-2021,2020 1ºSem,59,-33.4513,-70.6265
+461,Código: 14908,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Mujica 99,$ 400.000,"UF 13,55",2,2,,53 m²,58 m²,54.423.547,23-06-2020,2020 1ºSem,59,-33.4508,-70.6296
+462,Código: 202271374,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,San Eugenio - Suarez Mujica,$ 480.000,"UF 16,25",2,2,,58 m²,70 m²,50.017.362,17-06-2021,2020 1ºSem,70,-33.4591,-70.6247
+463,Código: 202003176,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,AMOBLADO //DUBLE ALMEYDA // REP DE ISRAEL,$ 520.000,"UF 17,61",2,2,,76 m²,82 m²,72.551.000,17-06-2020,2020 1ºSem,68,-33.4546,-70.6208
+464,Código: 202376171,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,A cuatro minutos de la Estación Irarrázaval,$ 550.000,"UF 18,63",2,2,,55 m²,60 m²,67.827.725,05-06-2021,2020 1ºSem,59,-33.4505,-70.6286
+465,Código: 52949,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Lo Encalada/Av. Irarrázaval,$ 450.000,"UF 15,24",3,2,,70 m²,,36.445.057,28-05-2021,2020 1ºSem,68,-33.4529,-70.6251
+466,Código: 202053279,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,IRARRAZAVAL / DUBLE ALMEYDA,$ 510.000,"UF 17,27",2,2,,65 m²,65 m²,61.563.027,08-06-2021,2020 1ºSem,68,-33.4541,-70.6222
+467,Código: 202224613,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Irarrazaval,$ 245.000,"UF 8,3",1,1,,30 m²,30 m²,25.702.507,25-09-2020,2020 1ºSem,56,-33.4586,-70.6296
+468,Código: 52732,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,AV. EL CONDEL(AG)/IRARRAZAVAL,$ 500.000,"UF 16,93",2,2,,48 m²,,43.568.834,11-05-2021,2020 1ºSem,59,-33.452,-70.6248
+469,Código: 1028057036-55,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,bustamante,$ 375.000,"UF 12,7",1,1,,31 m²,34 m²,35.373.841,04-05-2021,2020 1ºSem,59,-33.4551,-70.6284
+470,Código: Add1059824,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Camilo,$ 350.000,"UF 11,85",2,2,,48 m²,48 m²,31.415.386,30-04-2021,2020 1ºSem,55,-33.4454535,-70.6353273
+471,,,,,,:precioDespliegue:,2,1,,60 m²,60 m²,4.442.806,18-06-2021,,,-33.4463,-70.6399
+472,,,,,:precioUF:,"UF 11,85",2,1,,51 m²,51 m²,41.705.657,27-05-2021,,,-33.4434,-70.6374
+473,Código: 202027244,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Parque Bustamante,$ 350.000,"UF 11,85",2,1,,40 m²,41 m²,36.358.739,02-06-2021,2020 1ºSem,55,-33.4448,-70.6354
+474,,,,,:precioUF:,"UF 15,24",2,2,,50 m²,50 m²,50.691.598,10-06-2021,,,-33.4473,-70.639
+475,Código: 202027245,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Parque Bustamante,$ 290.000,"UF 9,82",1,1,,30 m²,31 m²,25.120.028,02-06-2021,2020 1ºSem,55,-33.4448,-70.6354
+476,Código: 202078430,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa VIctoria / Lira / Santa Isabel,$ 310.000,"UF 10,5",2,2,,42 m²,45 m²,33.412.329,22-05-2021,2020 1ºSem,55,-33.4481,-70.6399
+477,Código: 202135366,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,CURICO,$ 310.000,"UF 10,5",1,1,,36 m²,39 m²,34.520.892,08-06-2021,2020 1ºSem,55,-33.44656774,-70.63926789
+478,Código: Add1071493,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Av Cristóbal Colon, amplio y luminoso",$ 1.200.000,"UF 40,64",4,3,130 m²,120 m²,120 m²,130.079.126,22-05-2021,2020 1ºSem,73,-33.4190192,-70.5744068
+479,Código: 1028057042-55,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,malvas,$ 630.000,"UF 21,33",2,2,,61 m²,61 m²,61.172.536,26-06-2021,2020 1ºSem,81,-33.4115,-70.571
+480,,,,,,,,,,,,,,,,,
+481,Código: 202015343,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Puerta del sol - Estadio Español,UF 16,$ 472.471,1,1,,35 m²,35 m²,52.230.204,28-04-2021,2020 1ºSem,81,-33.4128,-70.578
+482,Código: 202078672,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Av. Cristóbal Colón con Manquehue,$ 720.000,"UF 24,38",3,2,,100 m²,110 m²,95.042.576,15-06-2021,2020 1ºSem,73,-33.4186,-70.5708
+483,Código: Add1069180,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Oportunidad a dos cuadras de metro Escuela Militar,UF 16,$ 472.471,1,1,35 m²,35 m²,35 m²,52.230.204,17-05-2021,2020 1ºSem,81,-33.4127437,-70.5781156
+484,Código: 201114622,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Neveria / Jorge VI,UF 81,$ 2.391.887,4,3,495 m²,300 m²,,56.812.930,24-06-2021,2020 1ºSem,85,-33.4117,-70.574
+485,Código: D5109,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,APOQUINDO / WARREN SMITH,$ 1.500.000,"UF 50,8",3,3,,140 m²,,,11-03-2019,2020 1ºSem,81,-33.4108,-70.5742
+486,Código: 1028018010-371,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Hernando de Aguirre,UF 60,$ 1.771.768,4,3,,171 m²,195 m²,157.516.806,16-06-2021,2020 1ºSem,75,-33.4298,-70.5978
+487,,,,,:precioUF:,$ 767.766,2,2,,58 m²,70 m²,72.215.011,25-05-2021,,75,-33.4286,-70.5982
+488,Código: 202043890,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Carlos Antúnez / Hernando de Aguirre,$ 390.000,"UF 13,21",1,1,,45 m²,45 m²,43.768.253,28-10-2019,2020 1ºSem,75,-33.4257,-70.5981
+489,Código: 202078407,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Plaza Las Lilas - Providencia,$ 960.000,"UF 32,51",3,3,,120 m²,136 m²,107.311.945,16-05-2021,2020 1ºSem,75,-33.4292,-70.595
+490,Código: 202078337,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,LOs Claveles Hernando de Aguirre Plaza Las Lilas,UF 26,$ 767.766,2,2,,73 m²,"96,1 m²",93.783.262,11-05-2021,2020 1ºSem,75,-33.4276,-70.5964
+491,Código: 202271497,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Los Aliagas - Francisco Villagra,$ 610.000,"UF 20,66",2,2,,74 m²,"76,5 m²",85.474.937,16-06-2021,2020 1ºSem,72,-33.4565,-70.5742
+492,Código: 202271825,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrazaval /Metro Villa Frei,$ 550.000,"UF 18,63",2,2,,90 m²,90 m²,51.207.539,24-05-2021,2020 1ºSem,75,-33.4543,-70.5792
+493,Código: 202078793,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Mall Plaza Egaña / Ñuñoa,$ 450.000,"UF 15,24",1,2,,49 m²,57 m²,57.661.724,17-06-2021,2020 1ºSem,72,-33.4544,-70.5731
+494,Código: 1028057049-19,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Diagonal Oriente,$ 500.000,"UF 16,93",2,2,,62 m²,62 m²,64.640.605,02-06-2021,2020 1ºSem,64,-33.4584,-70.5741
+495,Código: 202181826,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Cauquenes,$ 470.000,"UF 15,92",2,2,,55 m²,54 m²,54.730.248,12-05-2021,2020 1ºSem,72,-33.4551,-70.5768
+496,Código: 1028079001-288,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrazaval,$ 400.000,"UF 13,55",1,1,,40 m²,48 m²,47.072.750,10-06-2021,2020 1ºSem,72,-33.4535,-70.5717
+497,Código: 29163,Casa,Casa en Arriendo Ñuñoa - Metropolitana Ver ubicación,Fenelon,$ 1.400.000,"UF 47,41",5,2,200 m²,160 m²,,94.475.185,30-06-2021,2020 1ºSem,53,-33.4556,-70.5743
+498,Código: 53337,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Av. La Dehesa/Berna,$ 1.800.000,"UF 60,96",3,3,460 m²,178 m²,,255.377.036,20-06-2021,2020 1ºSem,84,-33.3298,-70.5175
+499,Código: 201011631,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Berna,$ 2.300.000,"UF 77,89",5,4,600 m²,240 m²,,229.734.052,28-05-2021,2020 1ºSem,84,-33.3289,-70.5179
+500,Código: 202007855,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Universidad San Sebastián / Luis Thayer Ojeda,$ 500.000,"UF 16,93",1,1,,"46,2 m²","51,4 m²",50.163.865,30-03-2021,2020 1ºSem,75,-33.4226,-70.6016
+501,Código: 201045363,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Los Leones / Lota,UF 190,$ 5.610.601,,8,493 m²,"551,2 m²",,448.165.140,12-03-2021,,,-33.4237,-70.6047
+502,Código: 1028076024-17,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"AMOBLADO, A PASOS DEL METRO",$ 650.000,"UF 22,01",2,2,,70 m²,83 m²,53.713.046,05-06-2021,2020 1ºSem,73,-33.4225,-70.6093
+503,Código: FPA4548,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Bosque Norte - Las Hortensias/ Los Leones,$ 820.000,"UF 27,77",4,3,,96 m²,120 m²,95.637.734,06-05-2020,2020 1ºSem,75,-33.4273,-70.6006
+504,Código: 1575238,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,"Dúplex Exclusivo, Amoblado/Tour virtual",$ 1.650.000,"UF 55,88",2,3,,97 m²,227 m²,129.385.640,23-02-2021,2020 1ºSem,80,-33.4247,-70.6055
+505,Código: 29175,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Santa Magdalena,$ 380.000,"UF 12,87",1,1,,40 m²,40 m²,32.027.306,30-06-2021,2020 1ºSem,73,-33.4209,-70.6096
+506,Código: 29167,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Santa Magdalena,$ 380.000,"UF 12,87",1,1,,40 m²,40 m²,32.027.306,30-06-2021,2020 1ºSem,73,-33.4209,-70.6096
+507,,,,,,,,1,,44 m²,46 m²,43.113.133,08-06-2021,,,-33.4356,-70.6564
+508,Código: 202101779,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,General Mackenna con Amunategui,$ 450.000,"UF 15,24",2,2,,63 m²,63 m²,63.638.899,02-06-2021,2020 1ºSem,52,-33.4334,-70.6574
+509,Código: 202078894,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Metro Cal y Canto,UF 17,$ 502.001,1,1,,"41,4 m²","43,4 m²",35.810.755,27-06-2021,2020 1ºSem,52,-33.4335,-70.6546
+510,Código: 202006210,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Full Amoblado Santo Domingo/ Metro Santa Ana/1D-1B 50 M2/w1,$ 400.000,"UF 13,55",1,1,,40 m²,50 m²,596.613,04-06-2021,2020 1ºSem,52,-33.4378,-70.6579
+511,,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,,16-03-2021,2020 1ºSem,52,-33.4358,-70.6571
+512,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,2,1,,55 m²,55 m²,62.491.836,24-06-2021,2020 1ºSem,52,-33.4342,-70.6573
+513,Código: 202053272,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,"Santo Domingo, cercano a Metro Santa Ana, Metro Plaza de Armas y Bellas Artes / Mall Vivo",$ 350.000,"UF 11,85",2,2,,52 m²,127 m²,53.469.079,24-06-2021,2020 1ºSem,48,-33.4368,-70.6549
+514,Código: 201078755,Casa,Casa en Arriendo La Reina - Metropolitana Ver ubicación,José Zapiola- Ossandón -Condominio,"UF 46,6",$ 1.376.073,3,3,284 m²,145 m²,,98.599.536,15-06-2021,2020 1ºSem,57,-33.4407,-70.6211
+515,Código: 202006301,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,VILLA OLIMPICA/ SALVADOR SUR,$ 480.000,"UF 16,25",3,2,,87 m²,,16.270.350,12-06-2021,2020 1ºSem,36,-33.44472025,-70.62443569
+516,Código: 201374055,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Dr Torres Boonen / Rancagua,$ 1.250.000,"UF 42,33",5,3,170 m²,160 m²,,102.573.948,05-06-2021,,,-33.4403,-70.6252
+517,,,,,,,2,1,,55 m²,57 m²,53.379.150,29-05-2021,,,-33.4638,-70.6248
+518,Código: 1028061059-1,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Elena,$ 430.000,"UF 14,56",2,1,,50 m²,50 m²,33.412.037,18-06-2021,2020 1ºSem,56,-33.4656,-70.6285
+519,Código: 1028061029-46,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,San Eugenio,$ 280.000,"UF 9,48",1,1,,24 m²,24 m²,25.118.256,29-06-2021,2020 1ºSem,58,-33.4637,-70.6247
+520,,,,,,,,,,,,,,,,,-70.6043
+521,Código: 21411,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Plaza Pedro de Valdivia/Bustos,$ 680.000,"UF 23,03",3,2,,90 m²,,79.065.052,08-06-2021,2020 1ºSem,75,-33.4401,-70.606
+522,,,,,,,,,,,,,:fechaPublicacionDespliegue:,,,-33.381,-70.5275
+523,Código: 26691,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,AGUSTINAS,$ 280.000,"UF 9,48",1,1,,36 m²,36 m²,32.863.553,29-04-2021,2020 1ºSem,52,-33.4418,-70.6592
+524,Código: 71,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,METRO LOS HEROES,$ 350.000,"UF 11,85",2,1,,48 m²,50 m²,36.909.421,12-06-2021,2020 1ºSem,52,-33.4433,-70.6591
+525,Código: 1028057048-51,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Moneda,$ 225.000,"UF 7,62",1,1,,34 m²,36 m²,25.433.959,22-05-2021,2020 1ºSem,52,-33.4423,-70.6584
+526,,,,,,,,,,,,,,,,,
+527,Código: 6966,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,HUERFANOS/AMUNATEGUI,$ 600.000,"UF 20,32",3,2,,65 m²,65 m²,70.940.508,16-06-2021,2020 1ºSem,52,-33.4404,-70.6567
+528,Código: 202006107,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,TARAPACA / METRO MONEDA,$ 270.000,"UF 9,14",1,1,,33 m²,35 m²,23.812.309,25-05-2021,2020 1ºSem,51,-33.448,-70.6539
+529,Código: Add759341,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,MONEDA / TUCAPEL JIMENES,$ 350.000,"UF 11,85",1,1,,33 m²,36 m²,,21-11-2019,2020 1ºSem,52,-33.4426735,-70.6591939
+530,Código: 27824,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Lord Cochrane,$ 390.000,"UF 13,21",2,2,,46 m²,51 m²,45.623.282,24-05-2021,2020 1ºSem,51,-33.4484,-70.6554
+531,Código: 202024524,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Zenteno / Alonso Ovalle,$ 265.000,"UF 8,97",1,1,,30 m²,30 m²,20.429.594,06-05-2021,2020 1ºSem,48,-33.44626653,-70.65320113
+532,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,HUERFANOS / AMUNÁTEGUI,$ 400.000,"UF 13,55",1,1,,50 m²,50 m²,47.478.558,16-06-2021,2020 1ºSem,52,-33.4404,-70.6566
+533,Código: 1028060032-29,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Las Nieves,$ 850.000,"UF 28,78",3,2,,120 m²,126 m²,84.654.649,13-06-2021,2020 1ºSem,83,-33.4033,-70.5924
+534,Código: 28237,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Las Nieves,UF 83,$ 2.450.946,4,4,,264 m²,304 m²,224.025.881,03-06-2021,2020 1ºSem,83,-33.406,-70.5962
+535,Código: 201021460,Casa,Casa en Arriendo Vitacura - Metropolitana Ver ubicación,FCO DE AGUIRRE / ALONSO DE MONROY,UF 100,$ 2.952.948,4,3,232 m²,163 m²,,619.684.922,16-04-2020,,,-33.4024,-70.596
+536,Código: 201037605,Casa,Casa en Arriendo Vitacura - Metropolitana Ver ubicación,ALONSO DE CORDOVA,UF 220,$ 6.496.485,6,4,"331,8 m²",232 m²,,308.773.680,11-05-2020,,,-33.4028,-70.5952
+537,Código: 202078147,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,ALMIRANTE LATORRE / SANTA ISABEL,$ 300.000,"UF 10,16",1,1,,38 m²,38 m²,23.685.139,28-05-2021,2020 1ºSem,51,-33.4507,-70.6645
+538,Código: 201005783,Casa,Casa en Arriendo Santiago - Metropolitana Ver ubicación,En Barrio Universitario!! Avenida Republica esquina Gay*,UF 150,$ 4.429.422,20,5,1.010 m²,981 m²,,488.433.982,24-06-2021,2020 1ºSem,22,-33.4554,-70.6667
+539,Código: 1028063005-72,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,lord Cochrane,$ 300.000,"UF 10,16",2,1,,48 m²,48 m²,24.843.721,17-06-2021,2020 1ºSem,51,-33.4527,-70.6626
+540,Código: 202049176,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,av. Republica-Echaurren,$ 450.000,"UF 15,24",1,1,,42 m²,44 m²,43.346.290,07-02-2019,2020 1ºSem,51,-33.4531,-70.6664
+541,Código: 10590,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Las Lavandulas,$ 3.500.000,"UF 118,53",7,5,1.200 m²,278 m²,,325.030.374,05-11-2020,2020 1ºSem,80,-33.3931,-70.5307
+542,Código: 53035,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Camino La Fuente/Quebrada Honda,$ 2.600.000,"UF 88,05",5,5,1.150 m²,384 m²,,420.939.442,01-06-2021,2020 1ºSem,73,-33.4067,-70.5207
+543,Código: 202060968,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,PROVIDENCIA CONDELL,$ 420.000,"UF 14,22",1,1,,45 m²,52 m²,34.931.856,31-03-2021,2020 1ºSem,56,-33.4349,-70.6276
+544,Código: 9976,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Román Díaz,$ 500.000,"UF 16,93",2,1,,43 m²,50 m²,35.230.861,05-11-2020,2020 1ºSem,75,-33.4336,-70.6208
+545,Código: 201376436,Casa,Casa en Arriendo Maipú - Metropolitana Ver ubicación,Paso de los Patos,$ 410.000,"UF 13,88",3,2,55 m²,55 m²,,17.419.567,16-06-2021,2020 1ºSem,31,-33.503,-70.7899
+546,,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Colegio Manquehue - Amoblado - Vitacura - Lo Gallo,$ 1.100.000,"UF 37,25",3,1,,98 m²,108 m²,143.666.682,02-06-2021,2020 1ºSem,87,-33.3768,-70.55
+547,,,:direccion: Ver ubicación,Carmen,$ 350.000,"UF 11,85",1,1,,34 m²,34 m²,28.999.922,06-06-2021,2020 1ºSem,55,-33.4506,-70.6419
+548,Código: 202077282,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Avda. Santa Isabel / Metro Parque Almagro,$ 400.000,"UF 13,55",1,2,,47 m²,50 m²,49.381.944,25-01-2021,2020 1ºSem,55,-33.4508,-70.6486
+549,Código: FSB863,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Santa Isabel/Carmén - Metro Santa Isabel,$ 400.000,"UF 13,55",2,1,,39 m²,40 m²,27.406.602,23-06-2020,2020 1ºSem,49,-33.4513,-70.6408
+550,Código: 28363,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Carmen,$ 350.000,"UF 11,85",1,1,,34 m²,34 m²,27.285.388,06-06-2021,2020 1ºSem,55,-33.4506,-70.642
+551,Código: 53398,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Isidro/San Francisco,$ 500.000,"UF 16,93",3,2,,73 m²,,62.808.365,26-06-2021,2020 1ºSem,55,-33.4506,-70.6451
+552,,,,,:precioUF:,"UF 9,82",1,1,,34 m²,38 m²,28.858.910,29-05-2021,2020 1ºSem,49,-33.4522,-70.6437
+553,,,,,,,,,,,,,,,,,
+554,,,,,,,,,,,,,,,,,
+555,,Departamento,Departamento en Arriendo Recoleta - Metropolitana Ver ubicación,Av. Perú / Santos Dumont / Metro Cerro Blanco,$ 320.000,"UF 10,84",1,1,,32 m²,35 m²,18.834.929,26-01-2020,2020 1ºSem,50,-33.4229,-70.6405
+556,Código: 202035756,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Damian,UF 90,$ 2.657.653,4,4,,379 m²,379 m²,438.903.545,29-05-2020,2020 1ºSem,82,-33.3799,-70.5244
+557,Código: :codigo:,,,CAMINO FARELLONES KM.5,UF 170,$ 5.020.011,7,5,8.000 m²,350 m²,,900.467.028,27-05-2021,,,-33.3718,-70.4491
+558,Código: 202074147,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Rosario Sur - Manquehue,$ 1.000.000,"UF 33,86",4,4,,141 m²,161 m²,159.100.349,10-06-2020,2020 1ºSem,81,-33.4111,-70.569
+559,Código: 202062458,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Martín de Zamora - Domingo Bondi,$ 850.000,"UF 28,78",3,2,,112 m²,112 m²,5.770.846,24-06-2021,2020 1ºSem,73,-33.4161,-70.5691
+560,Código: 202015561,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,A PASOS DEL METRO CHILE ESPAÑA,$ 430.000,"UF 14,56",1,1,,34 m²,42 m²,39.334.448,09-06-2021,2020 1ºSem,70,-33.4561,-70.6
+561,,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Se arrienda preciosa casa en Lo Barnechea,$ 2.380.000,"UF 80,6",4,4,1.040 m²,,186 m²,336.789.552,10-10-2018,2020 1ºSem,79,-33.3517072,-70.537722
+562,Código: FPA4445,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Parque Almagro - Metro Parque Almagro,$ 360.000,"UF 12,19",2,2,,49 m²,,35.299.762,06-05-2020,2020 1ºSem,51,-33.45,-70.6547
+563,Código: 1028018289-25,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,MANUEL RODRÍGUEZ SUR,$ 265.000,"UF 8,97",1,1,,35 m²,40 m²,43.766.237,21-05-2021,2020 1ºSem,51,-33.4558,-70.6566
+564,Código: 202006212,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Blanco Encalada /1D 1B /38M2 / Santiago / Cod.ee1,$ 270.000,"UF 9,14",1,1,,36 m²,38 m²,16.582.261,04-06-2021,2020 1ºSem,51,-33.4564,-70.658
+565,Código: 202376186,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Blanco Encalada con Ejército,$ 300.000,"UF 10,16",2,1,,44 m²,45 m²,33.714.414,03-06-2021,2020 1ºSem,51,-33.4564,-70.6586
+566,Código: FSC4711,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Parque Almagro - Coquimbo/Nataniel Cox,$ 280.000,"UF 9,48",1,1,,35 m²,35 m²,23.114.961,06-05-2020,2020 1ºSem,44,-33.4572,-70.6516
+567,Código: 202007865,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Nataniel Cox / Parque Almagro,$ 320.000,"UF 10,84",1,1,,30 m²,30 m²,19.135.389,30-03-2021,2020 1ºSem,51,-33.4532,-70.6528
+568,Código: 201005751,Casa,Casa en Arriendo Santiago - Metropolitana Ver ubicación,Barrio Brasil entre moneda y agustinas,UF 90,$ 2.657.653,8,1,357 m²,273 m²,,172.262.099,09-06-2021,,,-33.4426,-70.6644
+569,Código: 202375571,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Embajador Quintana / Blanco Garces,$ 200.000,"UF 6,77",1,1,,21 m²,21 m²,17.351.156,22-04-2021,2020 1ºSem,37,-33.4512,-70.6976
+570,,,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,CORONEL SOUPER (AM)/AV. GENERAL VELÁSQUEZ (AM),$ 180.000,"UF 6,1",,1,,23 m²,,18.926.461,11-05-2021,2020 1ºSem,60,-33.4573,-70.6907
+571,Código: 202078349,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,General Velásquez y Avda. Ecuador,$ 380.000,"UF 12,87",2,2,,60 m²,60 m²,42.944.815,31-05-2021,2020 1ºSem,37,-33.4533,-70.697
+572,Código: 202376148,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Metro San Alberto Hurtado,$ 350.000,"UF 11,85",2,2,,50 m²,50 m²,37.912.218,02-06-2021,,,-33.4572,-70.6941
+573,Código: 202376335,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,Avda. Ecuador,$ 300.000,"UF 10,16",2,1,,40 m²,42 m²,41.364.224,12-06-2021,2020 1ºSem,37,-33.4522,-70.6981
+574,Código: 1545426,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Moderna casa en Los Trapenses,$ 3.256.000,"UF 110,26",4,3,800 m²,300 m²,,283.468.013,25-06-2021,2020 1ºSem,72,-33.3459,-70.5419
+575,,,,,,,,,,,,,,,,,-70.54
+576,Código: 201073447,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,AVENIDA LAS PATAGUAS,$ 4.000.000,"UF 135,46",6,4,1.228 m²,420 m²,,597.222.050,04-02-2020,2020 1ºSem,79,-33.3487,-70.5408
+577,Código: 202015511,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,CAMINO DEL CERRO ALTO. MARAVILLOSA VISTA,$ 2.690.000,"UF 91,1",3,3,,180 m²,210 m²,182.601.529,10-04-2021,2020 1ºSem,111,-33.3472,-70.5485
+578,Código: 1028057042-56,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Manuel tocornal,$ 375.000,"UF 12,7",2,1,,47 m²,47 m²,37.380.744,26-06-2021,2020 1ºSem,55,-33.4671,-70.6357
+579,Código: 201071013,Casa,Casa en Arriendo Santiago - Metropolitana Ver ubicación,Riquelme / Santo Domingo,$ 2.200.000,"UF 74,5",9,6,200 m²,502 m²,,,07-10-2019,,,-33.5475,-70.659
+580,Código: 201060386,Casa,Casa en Arriendo La Florida - Metropolitana Ver ubicación,Metro Rojas Magallanes - Paradero 19 V. Mackenna,"UF 33,28",$ 982.741,4,2,"256,5 m²","99,8 m²","99,8 m²",81.774.914,28-04-2021,2020 1ºSem,32,-33.5381,-70.5921
+581,Código: 202311930,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Parque Arauco,$ 1.150.000,"UF 38,94",3,2,,130 m²,140 m²,114.182.988,25-11-2020,2020 1ºSem,70,-33.4053,-70.5836
+582,Código: 202006087,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Vespucio Kennedy,$ 600.000,"UF 20,32",3,2,,84 m²,84 m²,40.789.415,22-05-2021,2020 1ºSem,70,-33.4052,-70.5851
+583,Código: 202073099,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,MANQUEHUE,$ 1.100.000,"UF 37,25",2,2,,100 m²,110 m²,107.243.569,03-01-2020,2020 1ºSem,93,-33.3986,-70.569
+584,Código: Add975888,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Ignacio,$ 350.000,"UF 11,85",2,2,59 m²,48 m²,48 m²,43.758.955,01-12-2020,2020 1ºSem,51,-33.330986,-70.704893
+585,Código: 202017133,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,MALL SPORT,UF 38,$ 1.122.120,2,2,,90 m²,90 m²,,08-01-2019,2020 1ºSem,82,-33.3705,-70.504
+586,,,,,,"UF 24,38",2,2,,90 m²,90 m²,89.723.134,27-05-2021,,,-33.3705,-70.5047
+587,Código: 201005632,Casa,Casa en Arriendo Colina - Metropolitana Ver ubicación,Liray - Lo Pinto / Chicureo,$ 1.800.000,"UF 60,96",3,3,5.000 m²,270 m²,,118.905.748,29-06-2021,,,-33.2589,-70.7204
+588,Código: 202133212,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Francisco Bulnes Correa/San Carlos de Apoquindo,UF 95,$ 2.805.300,6,5,,350 m²,600 m²,,17-06-2020,2020 1ºSem,68,-33.4186,-70.5076
+589,,,,,:precioUF:,"UF 91,43",4,4,,1 m²,1 m²,402.962.769,05-06-2021,,,-33.4182,-70.5076
+590,Código: 28475,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Francisco Bulnes Correa,UF 120,$ 3.543.537,5,5,,294 m²,384 m²,337.388.526,12-06-2021,2020 1ºSem,68,-33.4185,-70.5077
+591,Código: 202373912,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Ramon Corvalan-Carabineros de Chile,$ 290.000,"UF 9,82",1,1,,35 m²,35 m²,28.776.184,24-06-2021,2020 1ºSem,50,-33.4388,-70.6361
+592,Código: 202072856,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,CAMINO REAL,$ 4.000.000,"UF 135,46",4,3,,280 m²,500 m²,407.935.071,19-12-2019,2020 1ºSem,105,-33.347,-70.5535
+593,Código: 202053069,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Club Hípico / Metro Rondizzoni,$ 280.000,"UF 9,48",2,1,,47 m²,47 m²,29.661.598,28-05-2021,2020 1ºSem,44,-33.4679,-70.6645
+594,,,,,,,,,,,,,,,,,
+595,Código: 202058983,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Valle Escondido,$ 4.000.000,"UF 135,46",4,6,,276 m²,385 m²,214.240.291,06-02-2019,,,-33.3414,-70.4928
+596,Código: :codigo:,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Sendero Las Lagunas / Valle Escondido,UF 200,$ 5.905.896,4,,1.550 m²,461 m²,,702.760.528,08-03-2021,,,-33.3452,-70.4955
+597,Código: Add1074923,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,SE ARRIENDA- Lindo Depto Sector Las Condes,$ 789.999,"UF 26,75",3,2,,,90 m²,98.214.550,26-05-2021,2020 1ºSem,82,-33.3718651,-70.5146942
+598,Código: 28171,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,La Cabaña,$ 460.000,"UF 15,58",1,1,,46 m²,49 m²,62.635.585,02-06-2021,2020 1ºSem,82,-33.3708,-70.5115
+599,Código: 1028018011-276,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Francisco de Asis,$ 700.000,"UF 23,71",1,1,,"36,5 m²","43,7 m²",87.160.636,04-05-2021,2020 1ºSem,82,-33.3739,-70.5169
+600,Código: 49757,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,JOSE DOMINGO CAÑAS/DUBLE ALMEYDA,$ 550.000,"UF 18,63",2,2,,84 m²,,74.492.484,10-03-2021,2020 1ºSem,68,-33.4521,-70.7023
+601,Código: 202376069,Departamento,Departamento en Arriendo Estación Central - Metropolitana Ver ubicación,av las rejas,$ 370.000,"UF 12,53",2,1,,52 m²,52 m²,22.579.023,29-05-2021,2020 1ºSem,29,-33.4523,-70.7064
+602,,,,Valle Escondido,UF 75,$ 2.214.711,3,3,,200 m²,220 m²,226.446.672,28-05-2021,,,-33.3524,-70.4929
+603,Código: 20488,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Paseo del Santuario,$ 6.000.000,"UF 203,19",4,4,1.200 m²,500 m²,,589.020.602,19-05-2021,2020 1ºSem,84,-33.3213,-70.5425
+604,Código: :codigo:,,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Espectacular Duplex con vista despejada,UF 100,$ 2.952.948,3,3,,263 m²,,275.634.563,13-05-2021,2020 1ºSem,91,-33.39331157,-70.59466254
+605,,,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Agustin del Castillo / Francisco de Riveros,UF 139,$ 4.104.597,3,3,,278 m²,316 m²,349.894.087,06-02-2019,2020 1ºSem,91,-33.3942,-70.5923
+606,Código: 1028046036-22,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Comandante Malbec,"UF 51,88",$ 1.531.989,2,3,,"125,5 m²","275,7 m²",205.123.530,15-06-2021,2020 1ºSem,83,-33.3591,-70.5152
+607,Código: 202181447,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,TAVELLI LAS CONDES,$ 500.000,"UF 16,93",1,1,,40 m²,45 m²,,08-05-2021,2020 1ºSem,109,-33.4018,-70.5569
+608,Código: 420909,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Los Trigales/Los Barbechos,$ 650.000,"UF 22,01",1,1,,40 m²,42 m²,54.822.940,06-05-2021,2020 1ºSem,109,-33.4029,-70.5568
+609,Código: 1028046016-154,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Leonardo Da Vinci,$ 450.000,"UF 15,24",1,1,,30 m²,32 m²,38.205.234,20-05-2021,2020 1ºSem,82,-33.404,-70.5551
+610,Código: 202033257,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Las Tranqueras,UF 60,$ 1.771.768,2,3,,113 m²,113 m²,97.477.377,04-06-2021,2020 1ºSem,109,-33.4005,-70.5545
+611,Código: 28746,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Apoquindo,$ 695.000,"UF 23,54",2,2,,"58,1 m²","74,7 m²",1.364.048.847,18-06-2021,,,-33.4084,-70.5501
+612,Código: 202053203,Departamento,Departamento en Arriendo Quinta Normal - Metropolitana Ver ubicación,Metro Gruta de Lourdes,$ 280.000,"UF 9,48",1,1,,30 m²,33 m²,20.639.245,03-06-2021,2020 1ºSem,37,-33.439,-70.6903
+613,Código: 202376275,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Rodrigo de Araya,$ 380.000,"UF 12,87",2,2,,58 m²,58 m²,45.351.597,08-06-2021,2020 1ºSem,48,-33.4758,-70.6007
+614,Código: 1028046041-85,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Los Espinos,$ 500.000,"UF 16,93",3,2,,80 m²,90 m²,41.368.053,23-06-2020,2020 1ºSem,48,-33.4766,-70.6011
+615,,,,,,,,,,,,,,,,-33.4799,-70.6005
+616,Código: 27863,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Avda. El Cerro,$ 480.000,"UF 16,25",1,1,,36 m²,43 m²,50.079.032,28-05-2021,2020 1ºSem,69,-33.4224,-70.6222
+617,Código: 201031215,Casa,Casa en Arriendo Colina - Metropolitana Ver ubicación,Chicureo / Piedra Roja,$ 1.700.000,"UF 57,57",4,3,400 m²,140 m²,,113.516.816,17-06-2021,,,-33.2636,-70.633
+618,Código: 202005496,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,¡¡¡¡San Diego casi esquina Victoria!!!,$ 300.000,"UF 10,16",2,1,,39 m²,39 m²,28.511.552,30-11-2020,2020 1ºSem,35,-33.4629,-70.648
+619,Código: 202344369,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,San Diego/Victoria,$ 350.000,"UF 11,85",2,1,,36 m²,36 m²,25.071.069,19-05-2021,2020 1ºSem,35,-33.4629,-70.648
+620,Código: 43358,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,los trapenses/Camino El Real,$ 2.800.000,"UF 94,82",4,3,600 m²,250 m²,,284.102.149,16-04-2021,2020 1ºSem,72,-33.3457,-70.5398
+621,Código: 202376268,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Metro Ciudad del Niño,$ 410.000,"UF 13,88",2,2,,55 m²,55 m²,51.687.381,08-06-2021,2020 1ºSem,41,-33.50995706,-70.65021507
+622,Código: 202053189,Departamento,Departamento en Arriendo San Miguel - Metropolitana Ver ubicación,Primera Avenida / Segunda Transversal,$ 270.000,"UF 9,14",1,1,,36 m²,37 m²,23.517.991,02-06-2021,2020 1ºSem,42,-33.5037,-70.6596
+623,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,49,-33.4983,-70.6619
+624,Código: :codigo:,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrazabal y montenegro,$ 530.000,"UF 17,95",:dormitoriosText:,,,64 m²,64 m²,61.088.426,26-06-2021,2020 1ºSem,75,-33.455,-70.587
+625,Código: 27804,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrázaval,$ 620.000,UF 21,2,2,,52 m²,62 m²,69.941.691,25-05-2021,2020 1ºSem,75,-33.455,-70.5846
+626,Código: 1028064015-8,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Angel Cruchaga santa maria,$ 550.000,"UF 18,63",2,2,,66 m²,72 m²,61.088.426,28-08-2019,2020 1ºSem,75,-33.4525,-70.5865
+627,Código: 202376365,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,A. Cruchaga Sta María,$ 520.000,"UF 17,61",2,2,,64 m²,72 m²,61.088.426,17-06-2021,2020 1ºSem,75,-33.455,-70.587
+628,Código: 201135421,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Manquehe Oriente,UF 120,$ 3.543.537,4,3,1.200 m²,350 m²,,542.356.481,24-06-2021,2020 1ºSem,91,-33.3547,-70.5432
+629,Código: 29124,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Cerro de la Cruz,$ 3.500.000,"UF 118,53",4,4,1.200 m²,350 m²,,542.356.481,27-06-2021,2020 1ºSem,91,-33.3543,-70.5408
+630,Código: 1028064014-51,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Departamento amplio a pasos del metro,$ 850.000,"UF 28,78",4,3,,145 m²,160 m²,123.264.698,25-06-2021,2020 1ºSem,73,-33.4255,-70.5898
+631,Código: 28792,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,César Cascabel,$ 750.000,"UF 25,4",3,2,,87 m²,95 m²,67.357.589,19-06-2021,2020 1ºSem,73,-33.4245,-70.5868
+632,Código: 1028036049-48,Departamento,Departamento en Arriendo San Joaquín - Metropolitana Ver ubicación,Carlos Valdovinos,$ 320.000,"UF 10,84",1,1,,43 m²,43 m²,34.163.207,12-06-2021,,,-33.4875,-70.6197
+633,Código: 28117,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Alejandro Fleming,$ 1.500.000,"UF 50,8",5,3,240 m²,147 m²,,77.631.822,02-06-2021,2020 1ºSem,84,-33.4241,-70.5404
+634,Código: 201376435,Casa,Casa en Arriendo Puente Alto - Metropolitana Ver ubicación,Avenida Las Nieves,$ 470.000,"UF 15,92",3,3,112 m²,86 m²,,35.577.756,16-06-2021,2020 1ºSem,29,-33.5904,-70.5561
+635,Código: 1550243,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Maravillosa Casa Italiana,$ 5.500.000,"UF 186,25",5,3,3.100 m²,650 m²,,555.223.423,09-01-2019,2020 1ºSem,80,-33.39807223,-70.5236208
+636,Código: 201047694,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Camino del Sol / Camino del Yunque,$ 3.000.000,"UF 101,59",4,4,940 m²,350 m²,350 m²,578.517.880,09-03-2020,2020 1ºSem,74,-33.3369,-70.4997
+637,Código: 1028046016-166,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Las Verbenas / Alto Las Condes,"UF 16,8",$ 496.095,1,1,,33 m²,43 m²,45.963.640,26-06-2021,2020 1ºSem,109,-33.3952,-70.5497
+638,Código: 201123430,Casa,Casa en Arriendo Colina - Metropolitana Ver ubicación,Casas Hacienda,$ 2.500.000,"UF 84,66",5,4,952 m²,324 m²,,230.134.035,02-06-2021,,,-33.2836,-70.6513
+639,Código: 202182942,Departamento,Departamento en Arriendo Lo Barnechea - Metropolitana Ver ubicación,EL ARRAYAN,$ 900.000,"UF 30,48",2,3,,115 m²,130 m²,56.580.069,31-05-2021,,,-33.3636,-70.4907
+640,Código: 201078234,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,CAMINO LA QUEBRADA/ QUINCHAMALI,$ 2.900.000,"UF 98,21",4,5,1.000 m²,260 m²,,279.140.298,31-05-2021,2020 1ºSem,60,-33.3687,-70.4945
+641,Código: 202376358,Departamento,Departamento en Arriendo Cerrillos - Metropolitana Ver ubicación,Villa Santa Adela,$ 500.000,"UF 16,93",3,1,,60 m²,60 m²,27.125.179,13-06-2021,,,-33.5105,-70.7196
+642,Código: 201376358,Casa,Casa en Arriendo Cerrillos - Metropolitana Ver ubicación,Villa Santa Adela,$ 500.000,"UF 16,93",3,1,60 m²,60 m²,,27.125.179,13-06-2021,2020 1ºSem,35,-33.5105,-70.7196
+643,Código: 201712033,Casa,Casa en Arriendo San Bernardo - Metropolitana Ver ubicación,"Casa amplia, antigua remodelada! Cercana a Estación Metrotren San Bernardo",$ 1.100.000,"UF 37,25",4,3,412 m²,257 m²,,54.588.809,06-05-2021,2020 1ºSem,27,-33.5981,-70.6965
+644,Código: 1028024070-39,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Pintor Raimundo Monvoisin,$ 1.300.000,"UF 44,02",3,2,241 m²,83 m²,,88.741.294,16-06-2021,2020 1ºSem,84,-33.4236,-70.551
+645,Código: 201152061,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Polobanda / Isabel la Catolica,$ 1.500.000,"UF 50,8",4,4,146 m²,140 m²,,145.209.249,27-05-2021,,,-33.4292,-70.5564
+646,Código: 201078622,Casa,Casa en Arriendo Vitacura - Metropolitana Ver ubicación,Parque Antonio Rabat / Carolina Rabat,$ 4.000.000,"UF 135,46",4,4,603 m²,300 m²,,268.479.292,02-06-2021,2020 1ºSem,99,-33.3715,-70.578
+647,Código: 201374457,Casa,Casa en Arriendo Vitacura - Metropolitana Ver ubicación,Luis Pasteur,$ 4.000.000,"UF 135,46",5,6,1.090 m²,480 m²,,432.559.557,15-02-2021,2020 1ºSem,86,-33.3726,-70.5731
+648,Código: 202078885,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Manquehue sur con Alonso de Camargo,$ 1.500.000,"UF 50,8",3,4,,140 m²,166 m²,155.679.204,26-06-2021,2020 1ºSem,75,-33.422,-70.5647
+649,Código: 1028063004-51,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,Santa Blanca,$ 2.800.000,"UF 94,82",6,5,550 m²,250 m²,,224.239.361,15-06-2021,2020 1ºSem,87,-33.3665,-70.5293
+650,,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Colina Miravalle,UF 118,$ 3.484.478,5,4,1.100 m²,350 m²,,501.960.071,10-06-2021,2020 1ºSem,77,-33.4126,-70.5281
+651,Código: 201035428,Casa,Casa en Arriendo Peñalolén - Metropolitana Ver ubicación,El Valle / Francisco Valenzuela Llanos,$ 950.000,"UF 32,17",4,2,250 m²,135 m²,,56.501.375,24-06-2021,2020 1ºSem,55,-33.4819,-70.5549
+652,Código: 201376521,Casa,Casa en Arriendo Cerrillos - Metropolitana Ver ubicación,General Velásquez,$ 590.000,"UF 19,98",3,2,100 m²,92 m²,,33.742.445,24-06-2021,2020 1ºSem,41,-33.5129,-70.7048
+653,Código: 28871,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Maipú,$ 350.000,"UF 11,85",2,1,,45 m²,45 m²,31.670.452,19-06-2021,2020 1ºSem,38,-33.4365,-70.6759
+654,,,,,,,,,,,,,,,,,-70.5667
+655,Código: 1028050048-4,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Irarrazabal,$ 480.000,"UF 16,25",2,2,,78 m²,78 m²,64.906.492,02-01-2020,2020 1ºSem,70,-33.5481,-70.626
+656,,,,,,,,,,,,,,,,,
+657,Código: 27379,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Av. Grecia,$ 480.000,"UF 16,25",2,2,,55 m²,65 m²,3.896.385,20-05-2021,2020 1ºSem,49,-33.4643,-70.5969
+658,Código: 201052688,Casa,Casa en Arriendo Ñuñoa - Metropolitana Ver ubicación,Av Grecia / Parque Juan XXIII,$ 2.500.000,"UF 84,66",5,2,255 m²,122 m²,,77.339.154,08-02-2021,2020 1ºSem,61,-33.4638,-70.5907
+659,Código: 1028056031-5,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,Carolina Rabat,"UF 91,15",$ 2.691.612,:dormitoriosText:,4,:superficieTerreno: m²,:metrosUtiles: m²,217 m²,274.837.709,02-04-2020,,,-33.3692,-70.5777
+660,Código: 28404,Casa,Casa en Arriendo Maipú - Metropolitana Ver ubicación,Nueva san martín,$ 600.000,"UF 20,32",3,2,150 m²,72 m²,,31.899.974,09-06-2021,2020 1ºSem,36,-33.5106,-70.7573
+661,Código: 201078802,Casa,Casa en Arriendo Lo Barnechea - Metropolitana Ver ubicación,La Huala,"UF 111,68",$ 3.297.852,5,3,1.400 m²,300 m²,,374.263.643,17-06-2021,2020 1ºSem,84,-33.3209,-70.5544
+662,,,,,,"UF 19,64",2,2,,80 m²,92 m²,77.542.414,27-06-2021,,,-33.3832,-70.6098
+663,Código: 201037415,Casa,Casa en Arriendo La Reina - Metropolitana Ver ubicación,Pricipe de Gales con Padre Hurtado,$ 1.700.000,"UF 57,57",4,3,350 m²,170 m²,,114.817.213,31-05-2021,2020 1ºSem,68,-33.4414,-70.5307
+664,Código: 29022,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Diagonal Vicuña Mackenna,UF 10,$ 295.294,1,1,,32 m²,30 m²,25.132.503,24-06-2021,,,-33.4702,-70.6262
+665,Código: 52925,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,Vicuña Mackenna/Zañartu,$ 440.000,"UF 14,9",2,2,,50 m²,,67.467.240,26-05-2021,,,-33.4731,-70.6212
+666,Código: 1028064001-117,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Cerro Alegre,$ 1.700.000,"UF 57,57",5,5,262 m²,245 m²,,177.177.080,23-06-2021,2020 1ºSem,65,-33.414,-70.53
+667,Código: 201031287,Casa,Casa en Arriendo Colina - Metropolitana Ver ubicación,Chicureo Centroi,$ 2.000.000,"UF 67,73",4,3,5.500 m²,280 m²,,134.012.985,24-06-2021,,,-33.2468,-70.6864
+668,Código: 202376352,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,Bellavista de La Florida,$ 480.000,"UF 16,25",3,2,,65 m²,65 m²,41.992.520,12-06-2021,2020 1ºSem,48,-33.5206,-70.5984
+669,Código: 202375937,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Avenida Macul,$ 400.000,"UF 13,55",2,2,,55 m²,55 m²,32.035.708,19-05-2021,2020 1ºSem,48,-33.4785,-70.5976
+670,Código: 202271129,Departamento,Departamento en Arriendo Ñuñoa - Metropolitana Ver ubicación,José Pedro Alessandri - Premio Nobel,$ 450.000,"UF 15,24",2,2,,56 m²,60 m²,54.578.964,13-06-2021,2020 1ºSem,69,-33.4713,-70.5976
+671,Código: 1028061035-4,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Avenida Macul,$ 440.000,"UF 14,9",3,2,,80 m²,80 m²,44.198.646,23-06-2020,2020 1ºSem,48,-33.4798,-70.5992
+672,Código: 202077060,Departamento,Departamento en Arriendo Quinta Normal - Metropolitana Ver ubicación,Martinez de Rozas con Rivas Vicuña,$ 250.000,"UF 8,47",1,1,,32 m²,34 m²,15.282.030,25-01-2021,2020 1ºSem,37,-33.4349,-70.6833
+673,Código: 201039003,Casa,Casa en Arriendo Vitacura - Metropolitana Ver ubicación,Lo Curro,UF 168,$ 4.960.952,5,5,5.000 m²,700 m²,,465.751.853,01-04-2019,2020 1ºSem,79,-33.3696,-70.5542
+674,Código: 202052978,Departamento,Departamento en Arriendo Macul - Metropolitana Ver ubicación,Américo Vespucio / Metro Las Torres,$ 460.000,"UF 15,58",3,2,,80 m²,86 m²,63.853.414,24-06-2021,2020 1ºSem,26,-33.4984,-70.5865
+675,Código: 202078490,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,La Glora,"UF 32,1",$ 947.896,4,1,,134 m²,140 m²,164.453.115,25-05-2021,2020 1ºSem,88,-33.4075,-70.5778
+676,Código: 202078490,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,La Glora,"UF 32,1",$ 947.896,4,1,,134 m²,140 m²,164.453.115,25-05-2021,2020 1ºSem,88,-33.4075,-70.5778
+677,Código: 202007974,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alonso de Córdova / Los Militares,$ 800.000,"UF 27,09",2,2,,71 m²,81 m²,82.346.832,27-05-2021,2020 1ºSem,88,-33.408,-70.5762
+678,Código: 202005873,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,entre parque Araucano y kennedy frente hotel MARRIOT,UF 37,$ 1.092.590,4,3,,125 m²,140 m²,110.212.007,20-04-2021,2020 1ºSem,89,-33.4007,-70.5792
+679,Código: 202053728,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,METRO MANQUEHUE,$ 650.000,"UF 22,01",2,2,,70 m²,"82,8 m²",79.520.529,06-05-2021,2020 1ºSem,81,-33.4085,-70.5748
+680,Código: 202711647,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco/Av. Alonso de Córdova,$ 1.300.000,"UF 44,02",4,4,,143 m²,183 m²,,08-05-2021,,,-33.4061,-70.5795
+681,Código: 202044384,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Rosario Norte / Los Militares,$ 750.000,"UF 25,4",3,2,,,100 m²,104.423.972,09-04-2021,2020 1ºSem,88,-33.4059,-70.5726
+682,Código: 202033835,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Rosario Norte con Los Militares,$ 990.000,"UF 33,53",3,2,,100 m²,100 m²,,18-05-2021,2020 1ºSem,88,-33.4057,-70.5724
+683,Código: 202006088,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Excelente Ubicación entre Los Militares y Alonso de Córdova,$ 750.000,"UF 25,4",2,2,,80 m²,80 m²,,22-05-2021,2020 1ºSem,88,-33.4071,-70.5765
+684,Código: 202027388,Departamento,Departamento en Arriendo Vitacura - Metropolitana Ver ubicación,a pasos de pasarela de Parque Arauco,UF 23,$ 679.178,2,2,,68 m²,71 m²,71.938.420,25-02-2021,2020 1ºSem,89,-33.4002,-70.5773
+685,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alonso de Cordova/Presidente Riesco,$ 630.000,"UF 21,33",2,2,,70 m²,,68.365.270,16-06-2021,2020 1ºSem,88,-33.4061,-70.579
+686,Código: 202375506,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco,$ 800.000,"UF 27,09",1,1,,70 m²,80 m²,51.113.241,18-04-2021,2020 1ºSem,88,-33.4059,-70.5789
+687,Código: D5112,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,WARREN SMITH / METRO ESCUELA MILITAR,$ 1.600.000,"UF 54,18",3,3,,140 m²,,,03-01-2020,2020 1ºSem,81,-33.409,-70.5752
+688,Código: 202008158,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alonso de Córdova / Los Militares,$ 800.000,"UF 27,09",2,2,,71 m²,81 m²,82.346.832,24-06-2021,2020 1ºSem,88,-33.408,-70.5762
+689,Código: 202144049,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Parque Arauco,$ 1.200.000,"UF 40,64",2,2,,70 m²,84 m²,56.377.347,25-09-2020,2020 1ºSem,93,-33.4007,-70.5716
+690,Código: 202077765,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Los Militares / Warren Smith,UF 21,$ 620.119,1,1,,45 m²,57 m²,45.468.064,18-03-2021,2020 1ºSem,81,-33.4077,-70.5748
+691,Código: 1028079017-18,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,avenida vicuña mackenna,$ 320.000,"UF 10,84",1,1,,34 m²,38 m²,33.972.902,21-05-2021,2020 1ºSem,48,-33.5212,-70.5985
+692,Código: 1028079016-13,Departamento,Departamento en Arriendo La Florida - Metropolitana Ver ubicación,calle nueva,$ 430.000,"UF 14,56",2,2,,66 m²,66 m²,47.255.324,25-06-2021,2020 1ºSem,48,-33.5207,-70.5978
+693,Código: 293429,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco/Vitacura,$ 650.000,"UF 22,01",1,1,,57 m²,60 m²,73.112.349,09-02-2021,2020 1ºSem,82,-33.4104,-70.6016
+694,,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,82,-33.4118,-70.6006
+695,Código: 28930,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Sebastian,$ 690.000,"UF 23,37",1,1,,65 m²,70 m²,70.572.050,24-06-2021,2020 1ºSem,82,-33.4151,-70.6003
+696,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 1.550.000,"UF 52,49",3,3,,180 m²,200 m²,178.125.937,28-05-2021,2020 1ºSem,82,-33.4135,-70.6004
+697,Código: 202074466,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Benjamín / Isidora,UF 35,$ 1.033.531,3,3,,96 m²,112 m²,136.081.341,29-05-2020,2020 1ºSem,82,-33.4135,-70.6021
+698,Código: Add1092872,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Calle Luz Presidente Riesco,$ 670.000,"UF 22,69",2,2,,,87 m²,84.023.766,29-06-2021,2020 1ºSem,82,-33.4107001,-70.6017172
+699,Código: 202374963,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Barrio Suecia,$ 430.000,"UF 14,56",1,1,,35 m²,35 m²,36.528.294,13-03-2021,2020 1ºSem,73,-33.4198,-70.608
+700,Código: 202330504,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco / Club de Golf Los Leones,$ 1.500.000,"UF 50,8",3,3,,390 m²,402 m²,442.782.957,25-09-2020,2020 1ºSem,82,-33.4119,-70.6008
+701,Código: 202143809,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 750.000,"UF 25,4",1,1,,67 m²,70 m²,70.572.050,25-09-2020,2020 1ºSem,82,-33.4149,-70.6004
+702,,,,Providencia,$ 750.000,"UF 25,4",3,3,,105 m²,112 m²,103.298.550,22-04-2021,2020 1ºSem,75,-33.4198,-70.6052
+703,,,,,,,,,,75 m²,90 m²,100.181.419,11-02-2021,,,-33.4104,-70.6015
+704,Código: 202076044,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Metro Los Leones / Providencia,$ 480.000,"UF 16,25",2,1,,52 m²,52 m²,56.084.021,31-12-2020,2020 1ºSem,75,-33.4186,-70.6073
+705,Código: 29877,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Bosque Norte // Ebro/ZURICH / SAN SEBASTIAN,$ 650.000,"UF 22,01",3,2,,135 m²,,103.514.820,01-07-2021,2020 1ºSem,82,-33.4157,-70.6034
+706,Código: 26742,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz,$ 930.000,"UF 31,49",3,2,,105 m²,105 m²,126.023.116,28-04-2021,2020 1ºSem,82,-33.4104,-70.6015
+707,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Bosque Norte / Helvecia,$ 370.000,"UF 12,53",1,1,,35 m²,35 m²,54.110.113,10-04-2021,2020 1ºSem,82,-33.4152,-70.603
+708,Código: 15868,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Calle Luz,$ 1.600.000,"UF 54,18",3,3,,200 m²,180 m²,168.991.742,05-11-2020,2020 1ºSem,82,-33.411,-70.6015
+709,,,,,,,,,,,,,,,,,
+710,Código: Add1056623,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Oportunidad, San Sebastián con Av. Presidente Riesco Metro El Golf",$ 700.000,"UF 23,71",2,2,76 m²,73 m²,73 m²,74.925.540,23-04-2021,2020 1ºSem,82,-33.4117197,-70.6007893
+711,Código: 202006725,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 950.000,"UF 32,17",3,2,,135 m²,155 m²,171.788.264,28-05-2021,2020 1ºSem,82,-33.4129,-70.6007
+712,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz,UF 30,$ 885.884,2,2,,75 m²,95 m²,96.153.494,05-04-2021,2020 1ºSem,82,-33.4105,-70.6016
+713,Código: 202142773,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Luz con Presidente Riesco,$ 550.000,"UF 18,63",1,1,,65 m²,80 m²,5.087.026,08-05-2021,2020 1ºSem,82,-33.4104,-70.6015
+714,Código: 53243,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Isidora Goyenechea/Presidente Riesco,$ 400.000,"UF 13,55",1,1,,33 m²,,36.220.178,15-06-2021,2020 1ºSem,82,-33.4146,-70.6001
+715,,,,,,,:dormitoriosText:,2,,87 m²,87 m²,84.023.766,24-06-2021,,,-33.4115,-70.6017
+716,Código: 202041592,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Las Torcazas / Presidente Riesco,UF 89,$ 2.628.123,3,4,,216 m²,270 m²,,13-08-2019,2020 1ºSem,88,-33.4121,-70.5891
+717,,,,,,,,,,,,,,,,,
+718,Código: 20659,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia,$ 625.000,"UF 21,17",1,1,,50 m²,55 m²,,11-02-2021,2020 1ºSem,88,-33.413,-70.5894
+719,Código: 1576977,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Callao, metro Alcántara. Tour virtual",$ 1.200.000,"UF 40,64",3,3,,97 m²,"117,8 m²",116.212.302,30-04-2021,2020 1ºSem,88,-33.4171,-70.5896
+720,,,:direccion: Ver ubicación,callao,UF 50,$ 1.476.474,3,3,,117 m²,140 m²,142.513.017,26-04-2021,2020 1ºSem,88,-33.4163,-70.5883
+721,Código: 202008849,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,el golf,$ 450.000,"UF 15,24",1,1,,45 m²,45 m²,48.358.563,28-05-2021,2020 1ºSem,88,-33.4164,-70.588
+722,Código: 202005240,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"CLÁSICO Y ESPACIOSO IDEAL PARA FAMILIA NUMEROSA, ACCESO DIFERENCIADO PARA SERVICIO",$ 1.750.000,"UF 59,26",5,5,,235 m²,260 m²,265.105.043,24-03-2020,2020 1ºSem,88,-33.4121,-70.5876
+723,Código: 202005227,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcantara,UF 24,$ 708.707,1,1,,58 m²,66 m²,59.717.825,18-03-2020,2020 1ºSem,88,-33.4127,-70.5898
+724,Código: 202057577,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,METRO ESCUELA MILITAR,$ 330.000,"UF 11,18",1,1,,36 m²,36 m²,23.420.705,24-04-2020,2020 1ºSem,88,-33.4155,-70.5844
+725,Código: 202050927,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia/Metro Alcantara,UF 42,$ 1.240.238,2,2,,"72,1 m²","85,7 m²",98.789.357,07-03-2020,2020 1ºSem,88,-33.4127,-70.5898
+726,Código: 202375327,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Las Torcazas,UF 80,$ 2.362.358,4,5,,300 m²,300 m²,440.262.280,05-04-2021,2020 1ºSem,88,-33.4134,-70.5898
+727,Código: 1573560,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcántara / Todo incluído,$ 690.000,"UF 23,37",1,1,,48 m²,57 m²,59.580.383,30-05-2021,2020 1ºSem,88,-33.4127,-70.5898
+728,Código: 202006619,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco / Vista Club de Golf,UF 70,$ 2.067.063,3,3,,300 m²,350 m²,,24-05-2021,2020 1ºSem,87,-33.4111,-70.5893
+729,Código: 202074514,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Americo Vespucio -Albacete,$ 2.300.000,"UF 77,89",5,4,,"295,4 m²",353 m²,377.285.965,08-06-2020,2020 1ºSem,78,-33.4191,-70.5819
+730,Código: 1575889,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Plaza Mustafa/Málaga luminoso,$ 1.100.000,"UF 37,25",3,3,,168 m²,198 m²,154.848.155,30-04-2021,2020 1ºSem,88,-33.4157,-70.5864
+731,Código: 202011343,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco,UF 180,$ 5.315.306,4,5,,510 m²,555 m²,,12-01-2021,2020 1ºSem,88,-33.4127,-70.5898
+732,Código: 202006441,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Hamlet / Las Torcazas,$ 440.000,"UF 14,9",1,1,,45 m²,51 m²,56.278.296,24-03-2021,2020 1ºSem,88,-33.4126,-70.5884
+733,Código: 202006591,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Américo Vespucio / Metro Escuela Militar,$ 600.000,"UF 20,32",2,2,,65 m²,70 m²,63.133.109,24-03-2021,2020 1ºSem,88,-33.4131,-70.5861
+734,Código: 203082,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Sector El Golf,$ 1.250.000,"UF 42,33",3,3,,148 m²,12 m²,90.143.442,09-02-2021,2020 1ºSem,88,-33.4125,-70.5896
+735,Código: 202045450,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Evaristo Lillo / San Pascual / Apoquindo,$ 400.000,"UF 13,55",1,1,,,40 m²,41.217.979,07-04-2021,2020 1ºSem,81,-33.4134,-70.582
+736,Código: 201160519,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Errázuriz-Gertrudis Echeñique,UF 190,$ 5.610.601,3,3,1.283 m²,366 m²,,1.173.317.545,07-05-2020,2020 1ºSem,102,-33.4197,-70.5876
+737,Código: 18275,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Hamlet,$ 1.800.000,"UF 60,96",3,2,,148 m²,175 m²,198.255.693,05-11-2020,2020 1ºSem,88,-33.4123,-70.5881
+738,Código: 44632,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Pdte Riesco/El Dante,$ 650.000,"UF 22,01",1,1,,41 m²,,45.621.776,12-04-2021,2020 1ºSem,88,-33.4116,-70.588
+739,Código: 202143834,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Las Torcazas con Apoquindo,UF 37,$ 1.092.590,2,2,,126 m²,134 m²,118.827.495,25-09-2020,2020 1ºSem,88,-33.4136,-70.5889
+740,Código: 202007180,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Vespucio Sur - Presidente Errázuriz,$ 1.700.000,"UF 57,57",2,2,,212 m²,240 m²,236.208.176,07-07-2020,2020 1ºSem,78,-33.4191,-70.5819
+741,Código: 28364,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Felix de Amesti,$ 700.000,"UF 23,71",2,2,,72 m²,78 m²,54.422.616,07-06-2021,2020 1ºSem,78,-33.417,-70.5805
+742,Código: 202314148,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Renato Sanchez /Apoquindo,$ 1.850.000,"UF 62,65",3,2,,235 m²,300 m²,282.398.896,01-12-2020,2020 1ºSem,88,-33.4155,-70.5878
+743,Código: 202003639,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,sector frente a escuela militar,$ 465.000,"UF 15,75",1,1,,48 m²,54 m²,,24-05-2021,2020 1ºSem,88,-33.4124,-70.5872
+744,Código: 202037321,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcántara,$ 1.200.000,"UF 40,64",2,2,,97 m²,"117,8 m²",116.212.302,18-04-2021,,,-33.4174,-70.5899
+745,,,,,,,,1,,43 m²,53 m²,60.558.364,28-05-2021,,,-33.4132,-70.5877
+746,,,,,,,,,,,,,,,,,
+747,Código: 1578377,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Departamento Studio / Metro E. Militar,$ 370.000,"UF 12,53",1,1,,35 m²,35 m²,24.129.815,25-06-2021,2020 1ºSem,81,-33.4155,-70.5838
+748,Código: 202031626,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"El Golf, Malaga, Apoquindo","UF 51,2",$ 1.511.909,3,2,,280 m²,300 m²,323.988.127,03-10-2020,2020 1ºSem,88,-33.4165,-70.5869
+749,Código: 202135210,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Alcántara / Apoquindo,$ 500.000,"UF 16,93",1,1,,58 m²,62 m²,,18-04-2021,2020 1ºSem,88,-33.4124,-70.5872
+750,Código: 1028026053-72,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alcántara,$ 920.000,"UF 31,16",3,3,,117 m²,135 m²,129.404.072,10-04-2021,2020 1ºSem,88,-33.4178,-70.5887
+751,Código: 202008082,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Estadio Español,$ 1.850.000,"UF 62,65",3,3,,131 m²,361 m²,,04-06-2021,2020 1ºSem,78,-33.4165,-70.5821
+752,Código: 202050926,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia/Barrio El Golf,UF 26,$ 767.766,1,1,,"42,7 m²","53,3 m²",60.558.364,06-03-2020,2020 1ºSem,88,-33.4127,-70.5898
+753,Código: 53429,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Dante/Av. Americo Vespucio,$ 1.250.000,"UF 42,33",3,3,,132 m²,,149.030.995,01-07-2021,2020 1ºSem,88,-33.4119,-70.5882
+754,Código: 202005789,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,EL GOLF,UF 26,$ 767.766,1,1,,42 m²,50 m²,59.552.895,28-05-2021,2020 1ºSem,88,-33.4127,-70.5874
+755,Código: 202072905,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,APOQUINDO/MALAGA,$ 550.000,"UF 18,63",1,1,,36 m²,41 m²,44.982.276,29-12-2020,2020 1ºSem,88,-33.4156,-70.5872
+756,Código: 1571934,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Amoblado, Dúplex Hamlet / Tour virtual",UF 222,$ 6.555.544,3,3,,220 m²,300 m²,197.244.435,30-04-2021,2020 1ºSem,88,-33.4125,-70.5879
+757,Código: 201313874,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Escuela Militar,$ 5.000.000,"UF 169,32",10,7,404 m²,300 m²,,217.658.793,05-10-2020,2020 1ºSem,85,-33.4143,-70.5809
+758,Código: 202037423,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco,$ 1.250.000,"UF 42,33",3,2,,132 m²,132 m²,8.583.156,30-06-2021,2020 1ºSem,87,-33.4113,-70.5891
+759,Código: 28900,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Américo Vespucio Sur,$ 900.000,"UF 30,48",2,2,,117 m²,125 m²,122.140.486,24-06-2021,2020 1ºSem,88,-33.4181,-70.5835
+760,Código: 9189,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Escuela Militar/El Trovador,$ 450.000,"UF 15,24",1,1,,40 m²,,49.191.162,20-05-2021,2020 1ºSem,88,-33.4136,-70.586
+761,Código: 202008334,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 42,$ 1.240.238,2,1,,70 m²,77 m²,98.976.277,28-05-2021,2020 1ºSem,88,-33.4131,-70.5872
+762,Código: 202003640,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,frente a la escuela militar,"UF 15,69",$ 463.317,1,1,,48 m²,54 m²,,24-05-2021,2020 1ºSem,88,-33.4124,-70.5872
+763,Código: 202011527,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,PRECIOSO DPTO HAMLET / TORCAZAS 3 DOM / SALA DE ESTAR,UF 62,$ 1.830.827,3,3,,155 m²,178 m²,198.255.693,04-02-2021,2020 1ºSem,88,-33.4125,-70.5879
+764,Código: 202000152,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,METRO ESCUELA MILITAR,$ 550.000,"UF 18,63",1,1,,35 m²,40 m²,37.447.909,03-12-2020,2020 1ºSem,88,-33.4135,-70.5854
+765,Código: 202007475,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf Hamlet -Presidente Riesco,UF 62,$ 1.830.827,3,3,,155 m²,178 m²,198.255.693,08-05-2021,2020 1ºSem,88,-33.4125,-70.5895
+766,Código: 202003609,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia - Metro Alcántara.,$ 850.000,"UF 28,78",2,3,,140 m²,152 m²,,06-05-2021,2020 1ºSem,88,-33.4132,-70.5899
+767,Código: 202374752,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro Escuela Militar,$ 390.000,"UF 13,21",1,1,,33 m²,36 m²,35.308.615,28-04-2021,2020 1ºSem,81,-33.4133,-70.5837
+768,Código: 202010992,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Hamlet - La Gioconda,$ 2.600.000,"UF 88,05",3,3,,146 m²,"173,1 m²",198.255.693,26-01-2021,2020 1ºSem,88,-33.4125,-70.5879
+769,Código: 202709854,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Augusto Leguía / Napoleón / El Golf,UF 17,$ 502.001,2,2,,"44,5 m²",50 m²,47.813.710,08-06-2021,2020 1ºSem,82,-33.418,-70.5969
+770,Código: 201074341,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,El golf,UF 75,$ 2.214.711,7,4,500 m²,222 m²,,319.849.616,13-05-2020,,,-33.4195,-70.5964
+771,,,,,,:precioDespliegue:,2,2,,111 m²,121 m²,131.349.818,28-05-2021,,,-33.4139,-70.5995
+772,Código: 202376155,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco con Augusto Leguía,$ 1.400.000,"UF 47,41",1,2,,75 m²,95 m²,82.725.918,02-06-2021,2020 1ºSem,82,-33.4127,-70.5979
+773,Código: 1563815,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf/Plaza Loreto,$ 2.300.000,"UF 77,89",3,3,,283 m²,300 m²,386.569.020,30-04-2021,2020 1ºSem,82,-33.4132,-70.5927
+774,Código: 202114542,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf/Av. Presidente Riesco,$ 1.800.000,"UF 60,96",3,3,,140 m²,175 m²,184.652.340,04-02-2021,2020 1ºSem,82,-33.4131,-70.5927
+775,Código: 393056,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,El Bosque/ Callao,$ 400.000,"UF 13,55",1,1,,48 m²,50 m²,61.981.564,09-03-2021,2020 1ºSem,82,-33.4196,-70.5991
+776,,,,,,,,,,,,,,,,,
+777,Código: 25506,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Carmencita,UF 75,$ 2.214.711,4,4,,230 m²,290 m²,318.400.747,31-03-2021,2020 1ºSem,82,-33.4153,-70.5992
+778,Código: 1577757,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Cerro San Luis, Tour virtual",$ 981.000,"UF 33,22",2,1,,70 m²,80 m²,,02-06-2021,2020 1ºSem,82,-33.412,-70.5985
+779,Código: 202005710,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Barrio El Golf, la mejor vista despejada , tranquilo seguro y con excelente conectividad.",$ 1.650.000,"UF 55,88",4,4,,170 m²,230 m²,,06-05-2021,2020 1ºSem,82,-33.4125,-70.5929
+780,Código: 52968,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,APOQUINDO/Presidente Riesco,UF 70,$ 2.067.063,3,3,,266 m²,,375.124.246,26-05-2021,2020 1ºSem,82,-33.4139,-70.5946
+781,Código: 1572866,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Glamis, Amoblado Impecable",$ 740.000,"UF 25,06",1,2,,95 m²,120 m²,80.684.968,30-04-2021,2020 1ºSem,82,-33.4134,-70.5955
+782,Código: 202005687,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,frente plaza el golf,$ 1.200.000,"UF 40,64",4,3,,170 m²,190 m²,256.561.900,22-05-2021,2020 1ºSem,82,-33.4139,-70.5923
+783,Código: 202078472,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Roger de Flor / El Bosque Norte / Entre Metro El Golf y Tobalaba,$ 430.000,"UF 14,56",1,1,,39 m²,44 m²,42.342.679,25-05-2021,2020 1ºSem,82,-33.4167,-70.5994
+784,Código: 200860,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Plaza Perú,UF 44,$ 1.299.297,3,2,,135 m²,142 m²,167.445.122,09-02-2021,2020 1ºSem,82,-33.4131,-70.5963
+785,Código: 202073939,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf / Isidora Goyenechea,"UF 48,7",$ 1.438.085,2,3,,168 m²,174 m²,268.508.294,16-03-2020,2020 1ºSem,88,-33.4142,-70.592
+786,Código: 25079,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Carmencita,UF 75,$ 2.214.711,3,3,,250 m²,270 m²,318.400.747,21-03-2021,2020 1ºSem,82,-33.4151,-70.5987
+787,Código: 1578022,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Acogedor / Un dormitorio-El Golf,$ 490.000,"UF 16,59",1,1,,47 m²,47 m²,,08-06-2021,2020 1ºSem,82,-33.4132,-70.5991
+788,,,,,,,,,,,,,,,,,
+789,Código: 1549118,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Extraordinario Depto Amoblado Alsacia / Pdte Riesco,$ 1.590.000,"UF 53,84",3,3,,170 m²,170 m²,186.435.143,30-04-2021,2020 1ºSem,88,-33.4125,-70.5905
+790,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 90,$ 2.657.653,3,4,,218 m²,258 m²,318.400.747,28-05-2021,2020 1ºSem,82,-33.4148,-70.5977
+791,,,,,,,,,,,,,,,,,
+792,Código: 1577756,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Cerro San Luis, remodelado.",$ 921.000,"UF 31,19",2,1,,69 m²,72 m²,,02-06-2021,2020 1ºSem,82,-33.4119,-70.5988
+793,Código: 202031054,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,GERTRUDIS ECHENIQUE - RENATO SANCHEZ,"UF 17,48",$ 516.175,1,1,,65 m²,65 m²,37.654.307,18-05-2021,2020 1ºSem,88,-33.4189,-70.591
+794,,,,,,,,,,256 m²,281 m²,351.329.272,28-05-2021,,,-33.4156,-70.5987
+795,,,:direccion: Ver ubicación,Carmencita/Don Carlos,UF 36,$ 1.063.061,3,4,,130 m²,,117.532.099,09-02-2021,2020 1ºSem,82,-33.4153,-70.5993
+796,Código: 202008821,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 2.700.000,"UF 91,43",3,3,,286 m²,321 m²,323.982.605,28-05-2021,2020 1ºSem,82,-33.4146,-70.5982
+797,Código: 1551891,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Exclusivo / Cerro San Luis,UF 182,$ 5.374.365,3,4,,296 m²,325 m²,514.155.263,30-04-2021,2020 1ºSem,82,-33.4112,-70.5996
+798,Código: 1564053,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Exclusivo Dúplex / Cerro San Luis/ Tour virtual,UF 150,$ 4.429.422,2,3,,286 m²,576 m²,366.747.536,30-04-2021,2020 1ºSem,87,-33.4116,-70.5957
+799,Código: 1577915,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"El Golf, amoblado",$ 720.000,"UF 24,38",3,2,,110 m²,116 m²,104.866.886,05-06-2021,2020 1ºSem,82,-33.4155,-70.5949
+800,Código: 202053091,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Carmencita/ Isidora Goyenechea,$ 620.000,UF 21,2,2,,73 m²,85 m²,103.602.842,03-05-2021,2020 1ºSem,82,-33.4132,-70.5991
+801,Código: 202005212,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"En pleno barrio El Golf, con vista a la Plaza Perú. solo Un departamento por piso.",UF 80,$ 2.362.358,5,4,,202 m²,227 m²,276.632.174,09-05-2021,2020 1ºSem,82,-33.4153,-70.5986
+802,Código: EB-HU2748,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf.,"UF 45,5",$ 1.343.591,3,3,,135 m²,,,24-06-2021,2020 1ºSem,88,-33.4172,-70.5903
+803,Código: EB-HR5938,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf.,"UF 70,73",$ 2.088.620,2,2,,145 m²,,,24-06-2021,2020 1ºSem,82,-33.4127,-70.5979
+804,,,,,,,,,,,,,,,,,
+805,Código: 202076358,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Apoquindo /Metro Alcántara,$ 850.000,"UF 28,78",4,3,,136 m²,148 m²,144.951.816,18-04-2021,2020 1ºSem,88,-33.416,-70.5907
+806,,,,,,,1,2,,110 m²,148 m²,114.009.681,09-09-2020,,,-33.4139,-70.5984
+807,Código: 202144208,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 43,$ 1.269.767,2,2,,"146,3 m²","146,3 m²",147.171.076,25-09-2020,2020 1ºSem,82,-33.4142,-70.599
+808,Código: 202005786,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Edificio Embajada Callao entre Gertrudis Echeñique y Alcántara,$ 1.800.000,"UF 60,96",3,3,,123 m²,135 m²,137.646.200,01-07-2021,2020 1ºSem,88,-33.4172,-70.5903
+809,Código: 202026162,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,ISIDORA GOYENECHEA,$ 550.000,"UF 18,63",2,2,,62 m²,65 m²,70.387.330,23-04-2021,2020 1ºSem,82,-33.413,-70.5999
+810,Código: 1578021,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf- Arriendo - G.C. incluidos,$ 980.000,"UF 33,19",3,3,,100 m²,111 m²,,08-06-2021,2020 1ºSem,82,-33.4139,-70.5995
+811,Código: 202053208,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Vecinal / Napoleón,$ 520.000,"UF 17,61",2,1,,44 m²,61 m²,48.385.650,04-06-2021,2020 1ºSem,82,-33.4182,-70.5985
+812,,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Riesco / San Sebastián /Plaza Perú,$ 480.000,"UF 16,25",1,1,,41 m²,51 m²,47.452.250,15-06-2021,2020 1ºSem,82,-33.4126,-70.5995
+813,,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,82,-33.4131,-70.5924
+814,Código: 1577800,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Remodelado, cerro San Luis",$ 921.000,"UF 31,19",2,1,,69 m²,72 m²,,02-06-2021,2020 1ºSem,82,-33.4118,-70.5987
+815,Código: 23831,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Callao,$ 500.000,"UF 16,93",1,1,,40 m²,40 m²,43.605.779,23-02-2021,2020 1ºSem,88,-33.4178,-70.592
+816,Código: 202161962,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Cercano a Parroquia Nuestra Señora de Los Angeles,UF 80,$ 2.362.358,3,3,,300 m²,300 m²,440.262.280,26-05-2021,2020 1ºSem,88,-33.4137,-70.5901
+817,,,,,$ 1.400.000,"UF 47,41",1,1,,88 m²,108 m²,,05-06-2021,2020 1ºSem,82,-33.4131,-70.5982
+818,Código: 2193322,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,SECTOR ENRIQUE FOSTER SUR,$ 1.800.000,"UF 60,96",3,3,,300 m²,300 m²,265.650.542,14-12-2018,2020 1ºSem,88,-33.4192,-70.5937
+819,Código: 202001149,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Metro El Golf (Amoblado),$ 720.000,"UF 24,38",3,2,,110 m²,128 m²,104.866.886,03-06-2021,2020 1ºSem,82,-33.4154,-70.5949
+820,Código: 202143235,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Apoquindo con Augusto Leguía Sur,$ 540.000,"UF 18,29",2,2,,46 m²,55 m²,52.369.123,07-12-2020,2020 1ºSem,82,-33.4189,-70.5966
+821,Código: 202374971,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Callao/Metro El Golf,$ 450.000,"UF 15,24",1,1,,45 m²,45 m²,53.159.040,12-06-2021,2020 1ºSem,82,-33.4192,-70.5969
+822,Código: 396987,Casa,Casa en Arriendo Las Condes - Metropolitana Ver ubicación,Presidente Errazuriz/El Golf,UF 180,$ 5.315.306,8,3,570 m²,252 m²,,343.519.370,31-03-2021,2020 1ºSem,102,-33.4197,-70.5921
+823,Código: 202049208,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,METRO GOLF ENRIQUE FOSTER NORTE,"UF 25,52",$ 753.592,3,3,,135 m²,144 m²,121.081.523,15-01-2020,2020 1ºSem,82,-33.4151,-70.5946
+824,Código: 202007300,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Enrique Foster,$ 720.000,"UF 24,38",3,2,,106 m²,110 m²,104.866.886,02-06-2021,2020 1ºSem,82,-33.4154,-70.5943
+825,Código: 23539,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Napoleón,$ 550.000,"UF 18,63",1,1,,36 m²,36 m²,38.617.751,14-02-2021,2020 1ºSem,82,-33.4186,-70.5979
+826,Código: 1559453,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Espectacular Isidora!!!,$ 2.200.000,"UF 74,5",3,3,,200 m²,230 m²,198.242.658,30-04-2021,2020 1ºSem,82,-33.4139,-70.5992
+827,Código: 202008816,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Barrio el Golf,UF 36,$ 1.063.061,2,2,,145 m²,155 m²,167.445.122,28-05-2021,2020 1ºSem,82,-33.4132,-70.5976
+828,Código: 202064237,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alcantara,$ 1.500.000,"UF 50,8",3,3,,113 m²,138 m²,137.646.200,05-06-2019,2020 1ºSem,88,-33.4172,-70.5903
+829,,,,,,,1,1,,40 m²,45 m²,42.342.679,25-09-2020,2020 1ºSem,82,-33.4167,-70.5994
+830,Código: 202008451,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 3.000.000,"UF 101,59",4,3,,304 m²,349 m²,523.096.881,28-05-2021,2020 1ºSem,88,-33.4127,-70.5911
+831,Código: 6970,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,SAN FRANCISCO DE ASIS - ALSACIA,$ 550.000,"UF 18,63",1,1,,38 m²,45 m²,50.389.440,16-06-2021,2020 1ºSem,88,-33.4128,-70.591
+832,Código: 202376205,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Sebastian,$ 490.000,"UF 16,59",1,1,,40 m²,48 m²,46.204.674,05-06-2021,2020 1ºSem,82,-33.4126,-70.5995
+833,Código: EB-HT6917,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf.,UF 55,$ 1.624.121,1,1,,92 m²,,,24-06-2021,2020 1ºSem,82,-33.4127,-70.5979
+834,,,,,$ 2.700.000,"UF 91,43",4,,,286 m²,300 m²,323.982.605,08-05-2021,,,-33.4138,-70.5992
+835,Código: 203245,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf/ Isidora Goyenechea,"UF 103,14",$ 3.045.670,3,4,,300 m²,50 m²,495.089.143,09-02-2021,2020 1ºSem,82,-33.4148,-70.5923
+836,Código: 202712070,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,metro Alcántara,$ 1.100.000,"UF 37,25",2,2,,140 m²,200 m²,193.994.705,12-01-2021,2020 1ºSem,88,-33.4148,-70.5906
+837,Código: 202008778,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 62,$ 1.830.827,3,4,,298 m²,316 m²,316.786.873,28-05-2021,2020 1ºSem,88,-33.4198,-70.5941
+838,Código: 202134818,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Plaza Perú / Isidora Goyenechea,$ 1.400.000,"UF 47,41",3,3,,226 m²,252 m²,221.443.774,08-09-2020,2020 1ºSem,82,-33.4146,-70.5985
+839,,,,,$ 1.100.000,"UF 37,25",3,2,,110 m²,120 m²,108.480.860,27-06-2021,,,-33.4158,-70.5943
+840,Código: 202143451,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Augusto Leguía Norte con Reyes Lavalle,$ 720.000,"UF 24,38",3,2,,106 m²,114 m²,104.866.886,02-06-2021,2020 1ºSem,82,-33.4143,-70.598
+841,Código: 1577167,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Departamento Remodelado / Augusto Leguía,$ 790.000,"UF 26,75",3,2,,100 m²,119 m²,85.715.378,05-05-2021,2020 1ºSem,82,-33.4165,-70.5977
+842,Código: 53171,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Apoquindo/Gertrudis Echeñique,$ 1.100.000,"UF 37,25",3,3,,117 m²,,136.504.355,10-06-2021,2020 1ºSem,88,-33.416,-70.5907
+843,,,,,,,,,,,,,,,,-33.4167,-70.5994
+844,Código: 18789,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,UF 70,$ 2.067.063,3,2,,140 m²,170 m²,184.652.340,05-11-2020,2020 1ºSem,82,-33.4127,-70.5928
+845,,,,San Sebastian,$ 650.000,"UF 22,01",2,2,,50 m²,55 m²,74.925.540,05-06-2021,2020 1ºSem,82,-33.4126,-70.5995
+846,,,,,,,,,:superficieTerreno: m²,94 m²,104 m²,90.004.566,30-06-2021,,,-33.4171,-70.594
+847,,,,,,,,,,,,,,,,,-70.5994
+848,,,,,,,:dormitoriosText:,2,,140 m²,155 m²,173.647.029,28-05-2021,,,-33.4145,-70.5967
+849,Código: 25558,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Alsacia,UF 80,$ 2.362.358,4,5,,300 m²,300 m²,440.262.280,07-04-2021,2020 1ºSem,88,-33.4125,-70.5911
+850,Código: 202161022,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,El Golf,$ 3.000.000,"UF 101,59",3,3,,350 m²,420 m²,495.089.143,10-10-2019,2020 1ºSem,88,-33.4148,-70.591
+851,Código: 202135397,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,San Crescente/ Presidente Errázuriz/ Verbo Divino,$ 1.400.000,"UF 47,41",3,3,,140 m²,170 m²,,15-06-2021,2020 1ºSem,88,-33.4191,-70.5946
+852,Código: 202003095,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Magdalena con Av. Presidente Riesco,"UF 26,2",$ 773.672,2,2,,104 m²,124 m²,,24-05-2021,2020 1ºSem,82,-33.4132,-70.5938
+853,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,2020 1ºSem,82,-33.4178,-70.5967
+854,Código: 1577641,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,"Cerro San Luis, remodelado.",$ 981.000,"UF 33,22",2,1,,70 m²,80 m²,,02-06-2021,2020 1ºSem,82,-33.4119,-70.5988
+855,Código: :codigo:,,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Augusto Leguía / Vecinal / Apoquindo,$ 380.000,"UF 12,87",1,1,,35 m²,40 m²,35.213.285,13-05-2021,,,-33.4181,-70.5972
+856,Código: 20058,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,AMOBLADO El Golf / Presidente Riesco,$ 845.000,"UF 28,62",2,2,,65 m²,70 m²,79.561.909,19-05-2021,,,-33.4131,-70.5913
+857,,Departamento,Departamento en Arriendo Las Condes - Metropolitana Ver ubicación,Callao,$ 1.200.000,"UF 40,64",3,2,,140 m²,166 m²,162.012.893,01-07-2021,,,-33.4185,-70.5939
+858,Código: 1028079006-102,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Gath y Chávez,$ 540.000,"UF 18,29",1,1,,58 m²,68 m²,80.767.250,15-06-2021,,,-33.426,-70.6028
+859,,,,,,,,,,:metrosUtiles: m²,,53.483.614,01-06-2021,,,-33.4262,-70.604
+860,Código: 25501,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Holanda,$ 700.000,"UF 23,71",2,2,,85 m²,90 m²,72.836.542,01-04-2021,,,-33.4202,-70.6042
+861,Código: 202053216,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Traiguen/ Metro Los Leones,$ 530.000,"UF 17,95",2,2,,68 m²,78 m²,93.175.976,07-06-2021,,,-33.426,-70.6053
+862,Código: 52073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,RICARDO LYON/LOTA,$ 870.000,"UF 29,46",3,2,,110 m²,,82.873.619,29-05-2021,,,-33.4251,-70.6088
+863,Código: 1578159,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Tour Virtual / H. de Aguirre / Vista despejada,$ 1.200.000,"UF 40,64",3,3,,161 m²,176 m²,170.744.662,12-06-2021,,,-33.4232,-70.6
+864,,,,,,,,,,,,,,,,,
+865,,,,,,,,,,,,,,,,,
+866,Código: :codigo:,,:direccion: Ver ubicación,:titulo:,:precioUF:,:precioDespliegue:,:dormitoriosText:,:,:superficieTerreno: m²,:metrosUtiles: m²,:metrosConstruidos: m²,:avaluoFiscalTotalPesos:,:fechaPublicacionDespliegue:,,,-33.4222,-70.6001
+867,Código: 1578216,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,TOUR VIRTUAL / Cómodo Departamento / H. de Aguirre,$ 1.200.000,"UF 40,64",3,3,,161 m²,179 m²,170.744.662,12-06-2021,,,-33.42276842,-70.60133834
+868,Código: 1561350,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Suecia / Amoblado,$ 480.000,"UF 16,25",1,1,,37 m²,37 m²,,11-11-2019,,,-33.4261,-70.6058
+869,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+870,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+871,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+872,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+873,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+874,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+875,Código: 47136,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Juan Crisostomo Jaque/Suecia,$ 750.000,"UF 25,4",3,2,,100 m²,110 m²,89.377.212,11-03-2021,,,-33.429,-70.6053
+876,Código: 29171,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Santa Magdalena,$ 450.000,"UF 15,24",2,1,,50 m²,53 m²,40.034.131,30-06-2021,2020 1ºSem,73,-33.4209,-70.6096
+877,Código: 202375637,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Metro Tobalaba,$ 700.000,"UF 23,71",2,1,,85 m²,85 m²,72.796.212,28-04-2021,2020 1ºSem,75,-33.4202,-70.6042
+878,Código: 202053343,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,METRO LOS LEONES//PROVIDENCIA//COSTANERA ANDRÉS BELLO,$ 490.000,"UF 16,59",2,2,,58 m²,58 m²,46.440.568,27-06-2021,2020 1ºSem,73,-33.4209,-70.6096
+879,Código: 1028018123-459,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Carmen Sylva 2630,$ 600.000,"UF 20,32",3,2,,75 m²,91 m²,,17-06-2021,2020 1ºSem,75,-33.4242,-70.6003
+880,Código: 52179,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,AV. Holanda/Av. Providencia,$ 700.000,"UF 23,71",2,2,,85 m²,,72.836.542,01-04-2021,2020 1ºSem,75,-33.4202,-70.6041
+881,Código: 202022439,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Guardia Vieja/Barcelona,$ 530.000,"UF 17,95",3,2,,80 m²,80 m²,24.959.723,10-04-2021,2020 1ºSem,73,-33.4248,-70.6098
+882,Código: 202076464,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Excelente ubicación y cómodo departamento en Huérfanos con San Martín SP,$ 320.000,"UF 10,84",1,1,,33 m²,33 m²,30.843.095,16-03-2021,2020 1ºSem,46,-33.4407,-70.6616
+883,Código: 1028024075-310,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Av Manuel Rodriguez,$ 330.000,"UF 11,18",2,1,,52 m²,2 m²,,17-06-2021,2020 1ºSem,52,-33.4436,-70.66
+884,,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Huerfanos,$ 510.000,"UF 17,27",3,2,,82 m²,82 m²,45.389.052,16-06-2021,2020 1ºSem,46,-33.4406,-70.6647
+885,Código: 202006742,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Barrio Brasil,$ 620.000,UF 21,3,3,,100 m²,107 m²,43.947.194,07-06-2021,2020 1ºSem,46,-33.4428,-70.6635
+886,Código: 49411,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Almirante Latorre/Salvador Sanfuentes,$ 310.000,"UF 10,5",2,1,,42 m²,,28.708.889,24-06-2021,2020 1ºSem,51,-33.4485,-70.6652
+887,Código: 202375592,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Huérfanos con Cienfuegos,$ 350.000,"UF 11,85",2,2,,65 m²,65 m²,32.015.471,23-04-2021,2020 1ºSem,46,-33.4409,-70.6636
+888,Código: 202373082,Departamento,Departamento en Arriendo Santiago - Metropolitana Ver ubicación,Sazie y Jose Manuel Rodriguez,$ 220.000,"UF 7,45",1,1,,35 m²,40 m²,23.469.837,24-06-2021,2020 1ºSem,51,-33.4495,-70.6603
+889,,,,,UF 26,$ 767.766,3,4,,105 m²,105 m²,,20-05-2021,2020 1ºSem,73,-33.4241,-70.6138
+890,Código: 48809,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,General Flores/Av. Providencia,$ 450.000,"UF 15,24",1,1,,40 m²,,30.242.572,20-02-2021,2020 1ºSem,68,-33.4278,-70.6184
+891,Código: 202224540,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Pedro de Valdivia/Fidel Oteiza,$ 440.000,"UF 14,9",1,1,,34 m²,36 m²,32.154.729,25-09-2020,2020 1ºSem,73,-33.4261,-70.6117
+892,Código: 52455,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,PEDRO DE VALDIVIA/ANDRES BELLO,$ 567.000,"UF 19,2",2,1,,61 m²,,69.830.638,20-05-2021,2020 1ºSem,73,-33.4222,-70.6141
+893,Código: 28631,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Varas,$ 590.000,"UF 19,98",3,2,,90 m²,90 m²,53.946.430,17-06-2021,2020 1ºSem,52,-33.4287,-70.617
+894,Código: 202000324,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Metro Manuel Montt,$ 440.000,"UF 14,9",1,1,,38 m²,44 m²,,24-06-2021,2020 1ºSem,75,-33.4287,-70.6186
+895,Código: 202375206,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Metro Pedro de Valdivia,$ 495.000,"UF 16,76",2,,,55 m²,55 m²,72.935.027,26-03-2021,2020 1ºSem,73,-33.4265,-70.6161
+896,Código: 202376331,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Hotel Sheraton,$ 700.000,"UF 23,71",2,2,,78 m²,96 m²,,12-06-2021,2020 1ºSem,69,-33.4209,-70.6164
+897,Código: 202712206,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Guardia Vieja,"UF 13,5",$ 398.647,1,1,,"29,9 m²","34,1 m²",,11-05-2021,2020 1ºSem,73,-33.4241,-70.6107
+898,Código: 202078389,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Pedro de Valdivia con Providencia,$ 1.300.000,"UF 44,02",3,2,,110 m²,125 m²,104.045.121,28-05-2021,2020 1ºSem,73,-33.4227,-70.6136
+899,Código: 1573591,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Hermoso remodelado 2D/2B,$ 500.000,"UF 16,93",2,2,,55 m²,58 m²,35.228.008,31-12-2020,2020 1ºSem,52,-33.4271,-70.6157
+900,Código: 25331,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Diego de Velásquez,$ 398.000,"UF 13,48",1,1,,34 m²,40 m²,35.924.868,26-03-2021,2020 1ºSem,73,-33.424,-70.6105
+901,Código: 202045460,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Concepción,$ 430.000,"UF 14,56",2,2,,68 m²,68 m²,71.762.306,14-04-2021,2020 1ºSem,73,-33.4241,-70.6169
+902,Código: 13480,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,General Flores,$ 480.000,"UF 16,25",1,1,,38 m²,40 m²,27.739.092,05-11-2020,2020 1ºSem,68,-33.4278,-70.6187
+903,Código: 25333,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Diego de Velásquez,$ 398.000,"UF 13,48",1,1,,36 m²,40 m²,38.284.840,26-03-2021,2020 1ºSem,73,-33.4242,-70.6107
+904,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+905,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+906,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+907,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+908,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+909,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+910,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+911,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+912,Código: 202008073,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Antonio Bellet / Av. Providencia,$ 350.000,"UF 11,85",1,1,,25 m²,27 m²,23.717.058,29-06-2021,2020 1ºSem,68,-33.4265,-70.6173
+913,Código: 278518,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Maria Luisa Santander/Salvador,UF 349,$ 10.305.788,18,1,520 m²,623 m²,,439.779.374,09-02-2021,,,-33.4389,-70.6277
+914,Código: 202033821,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,PROVIDENCIA-CONDELL,$ 370.000,"UF 12,53",1,1,,"44,3 m²","55,2 m²",35.897.114,06-02-2020,2020 1ºSem,56,-33.4349,-70.6276
+915,Código: 201011006,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,General Salvo - Metro Salvador,$ 3.000.000,"UF 101,59",5,5,250 m²,122 m²,,,24-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+916,,,,,,,,,,34 m²,37 m²,30.198.785,20-01-2021,,,-33.4336,-70.6208
+917,Código: 202073563,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Barrio Italia,$ 750.000,"UF 25,4",2,2,,58 m²,65 m²,,11-02-2020,2020 1ºSem,56,-33.4385,-70.6268
+918,Código: 13484,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Av. Providencia,$ 700.000,"UF 23,71",2,2,,69 m²,70 m²,56.144.005,05-11-2020,2020 1ºSem,56,-33.4348,-70.6276
+919,,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,PROVIDENCIA CON CONDELL,$ 370.000,"UF 12,53",1,1,,"44,4 m²","55,3 m²",35.845.565,09-09-2020,2020 1ºSem,56,-33.4349,-70.6276
+920,,,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,PROVIDENCIA-CONDELL,$ 420.000,"UF 14,22",1,1,,"44,3 m²","55,2 m²",35.822.135,16-09-2020,2020 1ºSem,56,-33.4356,-70.6271
+921,Código: 202042646,Departamento,Departamento en Arriendo Providencia - Metropolitana Ver ubicación,Eleodoro Yañez / P. de Valdivia (amoblado),$ 1.090.000,"UF 36,91",3,3,,125 m²,140 m²,77.392.627,17-02-2021,2020 1ºSem,75,-33.4319,-70.6242
+922,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+923,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+924,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+925,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+926,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+927,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+928,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+929,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+930,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+931,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+932,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+933,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
+934,Código: 201010946,Casa,Casa en Arriendo Providencia - Metropolitana Ver ubicación,Metro Salvador - General Salvo,$ 2.000.000,"UF 67,73",5,5,250 m²,122 m²,,,08-06-2021,2020 1ºSem,48,-33.4345,-70.6244
